@@ -1,0 +1,47 @@
+name: Refresh data
+
+# Once a day: download fresh inputs, recompute, validate, test, build.
+# The commit happens only if every step passes, so a bad upstream day can
+# never reach the published site. It keeps serving the last good snapshot.
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Download, compute, validate, write the thesis
+        run: npm run rebuild
+      - name: Unit tests
+        run: npm test
+      - name: Build the static site
+        run: npm run build
+      - name: Commit the new snapshot
+        run: |
+          if git diff --quiet -- data THESIS.md; then
+            echo "No change in the data."
+            exit 0
+          fi
+          AS_OF=$(node -p "require('./data/metrics.json').asOf")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data THESIS.md
+          git commit -m "Refresh data to ${AS_OF}"
+          git push

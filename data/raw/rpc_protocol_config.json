@@ -1,0 +1,1 @@
+{"protocol_version":88,"epoch_length":43200,"num_blocks_per_year":31536000,"max_inflation_rate":[1,40],"protocol_reward_rate":[0,1],"protocol_treasury_account":"treasury.near","online_min_threshold":[90,100],"online_max_threshold":[99,100],"protocol_upgrade_stake_threshold":[4,5],"minimum_stake_ratio":[1,62500]}
