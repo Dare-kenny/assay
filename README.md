@@ -1,3 +1,8 @@
+## Demo Video
+
+[Watch Assay Demo](https://youtu.be/pGiDFMVo2UU)
+
+
 # Assay
 
 **NEAR, weighed: what the chain pays for its security, and what it earns back.**
@@ -341,6 +346,3 @@ assay/
 [MIT](LICENSE).
 
 
-## Demo Video
-
-[Watch Assay Demo](https://youtu.be/pGiDFMVo2UU)
