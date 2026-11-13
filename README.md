@@ -341,10 +341,6 @@ assay/
 [MIT](LICENSE).
 
 
-🎥 DEMO VIDEO
+## Demo Video
 
-Watch the Assay demo below:
-
-""Assay Demo Video" (https://img.youtube.com/vi/pGiDFMVo2UU/0.jpg)" (https://youtu.be/pGiDFMVo2UU)
-
-"▶ Watch Assay Demo on YouTube" (https://youtu.be/pGiDFMVo2UU)
+[Watch Assay Demo](https://youtu.be/pGiDFMVo2UU)
