@@ -3,70 +3,70 @@
   "file": "llama_intents_volume.json",
   "source": "DefiLlama",
   "url": "https://api.llama.fi/summary/dexs/near-intents",
-  "fetchedAt": "2026-11-17T14:29:49.507Z",
-  "bytes": 15326,
-  "sha256": "efdc8d287268ccb6dfc9b5cb184f25873ed6065a9aad213d9a997ab51e0bec48",
+  "fetchedAt": "2026-11-18T14:04:24.925Z",
+  "bytes": 15349,
+  "sha256": "ccde334c6db0b67dd6397c29a81d416c89834624250e3f049409028bd9f5d2a7",
   "status": "fresh"
  },
  {
   "file": "llama_intents_fees.json",
   "source": "DefiLlama",
   "url": "https://api.llama.fi/summary/fees/near-intents?dataType=dailyFees",
-  "fetchedAt": "2026-11-17T14:29:50.922Z",
-  "bytes": 11546,
-  "sha256": "54e55b2dbbe8d50811efb69dd50705dac7469f7e2b7bfef33d13a6dfade8cc59",
+  "fetchedAt": "2026-11-18T14:04:25.035Z",
+  "bytes": 11564,
+  "sha256": "44f032356a72e4dce66f3d4874b0eea907c52150b61224deb11e7862cf70d5b7",
   "status": "fresh"
  },
  {
   "file": "llama_intents_revenue.json",
   "source": "DefiLlama",
   "url": "https://api.llama.fi/summary/fees/near-intents?dataType=dailyRevenue",
-  "fetchedAt": "2026-11-17T14:29:51.936Z",
-  "bytes": 10336,
-  "sha256": "1df74fd368436337a13fef605fa53cfc670491357eb5e141b4c8ad267db0ce4b",
+  "fetchedAt": "2026-11-18T14:04:25.059Z",
+  "bytes": 10355,
+  "sha256": "169996878baad9b36198237430224a69c7a59c311f81fa19497c5e13cff0b18d",
   "status": "fresh"
  },
  {
   "file": "llama_intents_holders_revenue.json",
   "source": "DefiLlama",
   "url": "https://api.llama.fi/summary/fees/near-intents?dataType=dailyHoldersRevenue",
-  "fetchedAt": "2026-11-17T14:29:51.963Z",
-  "bytes": 10233,
-  "sha256": "8acc255a8e5c54dfd12b3d2e30082e3ec9157cf83123164893f98edfb9c0598f",
+  "fetchedAt": "2026-11-18T14:04:25.081Z",
+  "bytes": 10252,
+  "sha256": "ae4697ac36f86660e0829ff1224c86df7f9e0d2b29a58cfb2b6cd9da0feef8c6",
   "status": "fresh"
  },
  {
   "file": "llama_intents_tvl.json",
   "source": "DefiLlama",
   "url": "https://api.llama.fi/protocol/near-intents",
-  "fetchedAt": "2026-11-17T14:29:51.988Z",
-  "bytes": 8571,
-  "sha256": "7ef55c33bca5a7b1cbf92a99ae91768f03186b76378d2eb07e846f2d2938bb95",
+  "fetchedAt": "2026-11-18T14:04:25.101Z",
+  "bytes": 8594,
+  "sha256": "a7e22f5459ff88efd39e4ccda904cf1f0f539d51cb70bc34f0ea1b853a0a8de8",
   "status": "fresh"
  },
  {
   "file": "nearblocks_charts.json",
   "source": "NearBlocks",
   "url": "https://api.nearblocks.io/v1/charts",
-  "fetchedAt": "2026-11-17T14:29:53.998Z",
-  "bytes": 198740,
-  "sha256": "c1f224c2c72fbe369ef914b0b6d1b4f889818dd368e8a078f05509a2ca996f38",
+  "fetchedAt": "2026-11-18T14:04:25.214Z",
+  "bytes": 198877,
+  "sha256": "8bc04c5695340f03baa49581db4b43f3c8f587844b93e98407bf2fe1ec3f7dd9",
   "status": "fresh"
  },
  {
   "file": "rpc_head.json",
   "source": "NEAR RPC",
   "url": "rpc: block {finality: final}",
-  "fetchedAt": "2026-11-17T14:29:56.290Z",
+  "fetchedAt": "2026-11-18T14:04:26.373Z",
   "bytes": 100,
-  "sha256": "e90f9e723ae977ad71d94f4e72d8488f90cb36e6f80dd9fd9fb4da4949f9a5a8",
+  "sha256": "21dc9441e6776931e1a8b15527f5549f278439b18667360d1f9ed732c493ec22",
   "status": "fresh"
  },
  {
   "file": "rpc_protocol_config.json",
   "source": "NEAR RPC",
   "url": "rpc: EXPERIMENTAL_protocol_config",
-  "fetchedAt": "2026-11-17T14:29:56.291Z",
+  "fetchedAt": "2026-11-18T14:04:26.374Z",
   "bytes": 314,
   "sha256": "5b8653839155023ba1139657dd2402967b525ac81635f63309a90ea5f6587a9e",
   "status": "fresh"
@@ -75,27 +75,27 @@
   "file": "rpc_validators.json",
   "source": "NEAR RPC",
   "url": "rpc: validators [null]",
-  "fetchedAt": "2026-11-17T14:29:56.582Z",
-  "bytes": 63247,
-  "sha256": "1b0a5cecd53113d23702cfe43f93f898e14ec06bc93795a7c5f29e4ef815c6ca",
+  "fetchedAt": "2026-11-18T14:04:26.630Z",
+  "bytes": 64530,
+  "sha256": "a15788cfc3a29aa5c6229a5c0cdd497904e998785761d26e0845f01d06ae7fb9",
   "status": "fresh"
  },
  {
   "file": "rpc_commissions.json",
   "source": "NEAR RPC",
   "url": "rpc: call_function get_reward_fee_fraction on every validator pool",
-  "fetchedAt": "2026-11-17T14:29:56.980Z",
-  "bytes": 9582,
-  "sha256": "aebd740b6566620087bfa9a7a86b15efad50b05fe6c930bcaaa5f306df46fa0e",
+  "fetchedAt": "2026-11-18T14:04:26.918Z",
+  "bytes": 9826,
+  "sha256": "ea1edf53c16b74f63685fb7a61419ab89f0dabd2a26cc22c167806507b7f3bc1",
   "status": "fresh"
  },
  {
   "file": "rpc_epochs.json",
   "source": "NEAR archival RPC",
   "url": "rpc: validators [block] + block headers at each epoch boundary",
-  "fetchedAt": "2026-11-17T14:32:35.586Z",
-  "bytes": 63611,
-  "sha256": "272f54e2889e19b19fdb1107592128d1bdd9c57273879b07a1bf8f8d566f1e58",
+  "fetchedAt": "2026-11-18T14:07:09.588Z",
+  "bytes": 63614,
+  "sha256": "9e2f991f0acd8c97020b7231feb7e3bf1602ff1bda61498998c6a71da990702e",
   "status": "fresh",
   "note": "Each record is read at an epoch boundary: supply just before and just after the first block of the epoch, and the rewards paid in that block."
  },
@@ -106,6 +106,7 @@
   "fetchedAt": "2026-11-17T14:32:41.468Z",
   "bytes": 1182,
   "sha256": "f48e2edff9febab47ea2f8eb9701c38490349ed6db2745b75d79bc3bbb418eb5",
-  "status": "fresh"
+  "status": "kept",
+  "note": "kept copy from 2026-11-17T14:32:41.468Z; refresh failed: HTTP 429 from https://archival-rpc.mainnet.near.org"
  }
 ]
