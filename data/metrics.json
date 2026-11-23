@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-11-22T13:27:26.341Z",
+ "generatedAt": "2026-11-23T16:07:17.424Z",
  "asOf": "2026-11-20",
  "price": {
   "usd": 3.20539834,
   "date": "2026-11-20"
  },
  "supply": {
-  "total": 1312396668.6431,
-  "staked": 595699888.3045627,
-  "stakedShare": 0.45390231668331094
+  "total": 1312499266.754541,
+  "staked": 596286006.5329134,
+  "stakedShare": 0.4543134016427826
  },
  "protocol": {
   "version": 88,
@@ -18,60 +18,60 @@
  },
  "issuance": {
   "epochs": 104,
-  "windowDays": 29.882648101851853,
-  "fromDate": "2026-10-23T13:00:37.868Z",
-  "toDate": "2026-11-22T10:11:38.664Z",
-  "meanEpochHours": 6.962947130528587,
-  "epochsPerYear": 1258.087967032286,
-  "mintedNearPerDay": 89515.29386999778,
-  "burnNearPerDay": 800.5819168187254,
-  "netNearPerDay": 88714.71195317905,
-  "mintedRate": 0.02489573696977623,
-  "netRate": 0.024673081421632423,
-  "treasuryShare": 0.100318716,
+  "windowDays": 29.888423287037035,
+  "fromDate": "2026-10-24T16:33:20.936Z",
+  "toDate": "2026-11-23T13:52:40.708Z",
+  "meanEpochHours": 6.964292804746494,
+  "epochsPerYear": 1257.844873212345,
+  "mintedNearPerDay": 89520.41315181888,
+  "burnNearPerDay": 803.9471664074545,
+  "netNearPerDay": 88716.46598541143,
+  "mintedRate": 0.024895214517879537,
+  "netRate": 0.02467164051431889,
+  "treasuryShare": 0.100320797,
   "crossCheckMaxRelDiff": 2.91268e-7,
-  "budgetUsdPerYear": 104730243.64705862,
-  "budgetUsdPerYearAfterCut": 67027355.93411752
+  "budgetUsdPerYear": 104736233.05522835,
+  "budgetUsdPerYearAfterCut": 67031189.15534615
  },
  "intents": {
   "windowDays": 30,
   "volumeUsd": 3984879295,
-  "feesUsd": 7160144,
-  "revenueUsd": 1689891,
-  "takeRateBps": 17.968283277699634,
-  "captureShare": 0.23601354944816752,
+  "feesUsd": 7160378,
+  "revenueUsd": 1690131,
+  "takeRateBps": 17.968870497493953,
+  "captureShare": 0.23603935434693532,
   "volume90": 12596021981,
   "volumePrev90": 6937584380,
   "growth90": 1.8156207248898355,
-  "fees90": 20538929,
-  "revenue90": 5345032,
+  "fees90": 20539163,
+  "revenue90": 5345272,
   "tvlUsd": 164630674,
-  "revenueUsdPerDay": 56329.7,
-  "revenueSinceSwitchUsd": 8568280.05
+  "revenueUsdPerDay": 56337.7,
+  "revenueSinceSwitchUsd": 8568520.05
  },
  "ledger": {
   "windowDays": 30,
-  "mintedNearPerDay": 89515.29386999778,
-  "buybackNearPerDay": 14527.761601594335,
-  "burnNearPerDay": 800.5819168187254,
-  "coverage": 0.17123714681285937,
-  "coverageBuybackOnly": 0.16229362574280173,
-  "coverage90": 0.1956177322734353,
-  "coverageAfterCut": 0.26755804189509275,
-  "breakEvenRevenueMultiple": 6.106564409994389,
-  "shortfallUsdPerYear": 86796535.53992072
+  "mintedNearPerDay": 89520.41315181888,
+  "buybackNearPerDay": 14530.257391243993,
+  "burnNearPerDay": 803.9471664074545,
+  "coverage": 0.17129282604679183,
+  "coverageBuybackOnly": 0.16231222443759205,
+  "coverage90": 0.19567884758428464,
+  "coverageAfterCut": 0.26764504069811224,
+  "breakEvenRevenueMultiple": 6.1056362318036035,
+  "shortfallUsdPerYear": 86795667.70570287
  },
  "wallets": {
   "list": [
    {
     "id": "buybacks.multisignature.near",
     "label": "Buyback multisig",
-    "near": 2387564.593974
+    "near": 2394504.787091
    },
    {
     "id": "fefundsadmin.sputnik-dao.near",
     "label": "Front-end fund DAO",
-    "near": 2048415.687515
+    "near": 2050276.360032
    },
    {
     "id": "1csfundsadmin.sputnik-dao.near",
@@ -79,39 +79,39 @@
     "near": 270.875891
    }
   ],
-  "totalNear": 4436251.15738,
-  "treasuryNear": 1716060.966101,
+  "totalNear": 4445052.023014,
+  "treasuryNear": 1723775.215035,
   "window": {
-   "from": "2026-10-23",
-   "to": "2026-11-22",
-   "gainedNear": 457097.69548999984,
-   "impliedNear": 424652.91372302076,
-   "ratio": 1.0764030593421081,
-   "seriesDays": 29
+   "from": "2026-10-24",
+   "to": "2026-11-23",
+   "gainedNear": 457652.4840219999,
+   "impliedNear": 416809.1745258658,
+   "ratio": 1.0979904282159687,
+   "seriesDays": 28
   },
   "sinceSwitch": {
    "from": "2026-02-23",
-   "to": "2026-11-22",
-   "gainedNear": 3388944.4803949995,
-   "impliedNear": 3451613.8387161857,
-   "ratio": 0.9818434618559486,
+   "to": "2026-11-23",
+   "gainedNear": 3397745.3460289994,
+   "impliedNear": 3451688.7124056756,
+   "ratio": 0.9843718913056096,
    "seriesDays": 271
   }
  },
  "validators": {
   "count": 345,
-  "totalStake": 595699888.3045627,
+  "totalStake": 596286006.5329134,
   "nakamoto33": 10,
   "nakamoto67": 26,
-  "top10Share": 0.35957964801161163,
-  "gini": 0.8312787332189789,
-  "minStake": 9861.040647,
-  "medianStake": 179151.077028,
+  "top10Share": 0.3599344818234357,
+  "gini": 0.8315629350334279,
+  "minStake": 9862.586085,
+  "medianStake": 179179.153877,
   "medianCommission": 0.07,
-  "stakeWeightedCommission": 0.2542884951753912,
+  "stakeWeightedCommission": 0.2540829137023182,
   "commissionUnreadable": 0,
-  "rewardPerEpoch": 23072.870843000004,
-  "medianRewardPerEpoch": 6.53849,
+  "rewardPerEpoch": 23445.524479000014,
+  "medianRewardPerEpoch": 6.654102,
   "viability": {
    "today": [
     {
@@ -119,32 +119,32 @@
      "rateScale": 1,
      "assessed": 345,
      "viableCount": 129,
-     "viableStakeShare": 0.9349229825021949,
-     "medianOperatorIncomeUsdPerYear": 1358.6685350393282
+     "viableStakeShare": 0.9349627000467059,
+     "medianOperatorIncomeUsdPerYear": 1347.7678949040317
     },
     {
      "costUsdPerMonth": 500,
      "rateScale": 1,
      "assessed": 345,
      "viableCount": 96,
-     "viableStakeShare": 0.9075125491566013,
-     "medianOperatorIncomeUsdPerYear": 1358.6685350393282
+     "viableStakeShare": 0.9075765303989592,
+     "medianOperatorIncomeUsdPerYear": 1347.7678949040317
     },
     {
      "costUsdPerMonth": 1000,
      "rateScale": 1,
      "assessed": 345,
      "viableCount": 80,
-     "viableStakeShare": 0.8830199008683028,
-     "medianOperatorIncomeUsdPerYear": 1358.6685350393282
+     "viableStakeShare": 0.883099554297508,
+     "medianOperatorIncomeUsdPerYear": 1347.7678949040317
     },
     {
      "costUsdPerMonth": 2000,
      "rateScale": 1,
      "assessed": 345,
-     "viableCount": 56,
-     "viableStakeShare": 0.795728762224796,
-     "medianOperatorIncomeUsdPerYear": 1358.6685350393282
+     "viableCount": 57,
+     "viableStakeShare": 0.7984184957573898,
+     "medianOperatorIncomeUsdPerYear": 1347.7678949040317
     }
    ],
    "afterCut": [
@@ -152,1049 +152,1049 @@
      "costUsdPerMonth": 250,
      "rateScale": 0.64,
      "assessed": 345,
-     "viableCount": 104,
-     "viableStakeShare": 0.9139632322050768,
-     "medianOperatorIncomeUsdPerYear": 869.54786242517
+     "viableCount": 106,
+     "viableStakeShare": 0.9162878221816926,
+     "medianOperatorIncomeUsdPerYear": 862.5714527385803
     },
     {
      "costUsdPerMonth": 500,
      "rateScale": 0.64,
      "assessed": 345,
      "viableCount": 83,
-     "viableStakeShare": 0.8891395700216336,
-     "medianOperatorIncomeUsdPerYear": 869.54786242517
+     "viableStakeShare": 0.8892141662751392,
+     "medianOperatorIncomeUsdPerYear": 862.5714527385803
     },
     {
      "costUsdPerMonth": 1000,
      "rateScale": 0.64,
      "assessed": 345,
-     "viableCount": 62,
-     "viableStakeShare": 0.8142608305648724,
-     "medianOperatorIncomeUsdPerYear": 869.54786242517
+     "viableCount": 63,
+     "viableStakeShare": 0.8341829216913997,
+     "medianOperatorIncomeUsdPerYear": 862.5714527385803
     },
     {
      "costUsdPerMonth": 2000,
      "rateScale": 0.64,
      "assessed": 345,
      "viableCount": 46,
-     "viableStakeShare": 0.7014707325514205,
-     "medianOperatorIncomeUsdPerYear": 869.54786242517
+     "viableStakeShare": 0.701725640741319,
+     "medianOperatorIncomeUsdPerYear": 862.5714527385803
     }
    ]
   },
   "rows": [
    {
     "id": "astro-stakers.poolv1.near",
-    "stake": 32870533,
-    "rewardPerEpoch": 1302.2238,
+    "stake": 32989478,
+    "rewardPerEpoch": 1300.1632,
     "commission": 0.01
    },
    {
     "id": "figment.poolv1.near",
-    "stake": 29034644,
-    "rewardPerEpoch": 1125.4825,
+    "stake": 29063416,
+    "rewardPerEpoch": 1144.9003,
     "commission": 0.1
    },
    {
     "id": "ledgerbyfigment.poolv1.near",
-    "stake": 23155792,
-    "rewardPerEpoch": 896.4108,
+    "stake": 23391758,
+    "rewardPerEpoch": 912.9482,
     "commission": 0.05
    },
    {
     "id": "staked.poolv1.near",
-    "stake": 22821704,
-    "rewardPerEpoch": 877.3476,
+    "stake": 22824920,
+    "rewardPerEpoch": 898.0393,
     "commission": 0.1
    },
    {
     "id": "binancenode1.poolv1.near",
-    "stake": 19996102,
-    "rewardPerEpoch": 774.6521,
+    "stake": 19999268,
+    "rewardPerEpoch": 788.3482,
     "commission": 0.05
    },
    {
     "id": "sumerian.poolv1.near",
-    "stake": 18815521,
-    "rewardPerEpoch": 728.9367,
+    "stake": 18817919,
+    "rewardPerEpoch": 741.8036,
     "commission": 0.15
    },
    {
     "id": "zavodil.poolv1.near",
-    "stake": 17922357,
-    "rewardPerEpoch": 693.9668,
+    "stake": 17940150,
+    "rewardPerEpoch": 707.0108,
     "commission": 0.01
    },
    {
     "id": "aca87218e28c41f5a693dee3dff12238.poolv1.near",
-    "stake": 17198100,
-    "rewardPerEpoch": 666.2561,
+    "stake": 17200795,
+    "rewardPerEpoch": 678.0367,
     "commission": 0.1
    },
    {
     "id": "liver.pool.near",
-    "stake": 16321956,
-    "rewardPerEpoch": 631.9333,
+    "stake": 16328825,
+    "rewardPerEpoch": 643.4946,
     "commission": 0.01
    },
    {
     "id": "cnear-1.poolv1.near",
-    "stake": 16064848,
-    "rewardPerEpoch": 622.3538,
+    "stake": 16067365,
+    "rewardPerEpoch": 633.3581,
     "commission": 1
    },
    {
     "id": "cnear-3.poolv1.near",
-    "stake": 16053163,
-    "rewardPerEpoch": 621.9011,
+    "stake": 16055679,
+    "rewardPerEpoch": 632.8974,
     "commission": 1
    },
    {
     "id": "cnear-2.poolv1.near",
-    "stake": 16051709,
-    "rewardPerEpoch": 621.8448,
+    "stake": 16054225,
+    "rewardPerEpoch": 632.8401,
     "commission": 1
    },
    {
     "id": "bitwise_2.poolv1.near",
-    "stake": 14725838,
-    "rewardPerEpoch": 570.4804,
+    "stake": 14732459,
+    "rewardPerEpoch": 580.5675,
     "commission": 0.03
    },
    {
     "id": "bitwise_1.poolv1.near",
-    "stake": 13269853,
-    "rewardPerEpoch": 514.075,
+    "stake": 13271933,
+    "rewardPerEpoch": 523.1652,
     "commission": 0.05
    },
    {
     "id": "kiln-1.poolv1.near",
-    "stake": 12259049,
-    "rewardPerEpoch": 474.45,
+    "stake": 12251778,
+    "rewardPerEpoch": 482.725,
     "commission": 0.05
    },
    {
     "id": "svrn-ai.poolv1.near",
-    "stake": 12101661,
-    "rewardPerEpoch": 468.8196,
+    "stake": 12103558,
+    "rewardPerEpoch": 477.1091,
     "commission": 1
    },
    {
     "id": "svrn.pool.near",
-    "stake": 12069484,
-    "rewardPerEpoch": 467.573,
+    "stake": 12071376,
+    "rewardPerEpoch": 475.8405,
     "commission": 1
    },
    {
     "id": "epic.poolv1.near",
-    "stake": 11805427,
-    "rewardPerEpoch": 457.4449,
+    "stake": 11812220,
+    "rewardPerEpoch": 465.4443,
     "commission": 0.01
    },
    {
     "id": "svrn-luganodes.pool.near",
-    "stake": 11425581,
-    "rewardPerEpoch": 442.6281,
+    "stake": 11427372,
+    "rewardPerEpoch": 450.4546,
     "commission": 1
    },
    {
     "id": "metapool01.pool.near",
-    "stake": 10800898,
-    "rewardPerEpoch": 418.4376,
+    "stake": 10795755,
+    "rewardPerEpoch": 425.8264,
     "commission": 0.2
    },
    {
     "id": "nearvana.poolv1.near",
-    "stake": 10481192,
-    "rewardPerEpoch": 406.0424,
+    "stake": 10484989,
+    "rewardPerEpoch": 413.222,
     "commission": 0.03
    },
    {
     "id": "svrn_bitwise.poolv1.near",
-    "stake": 10480336,
-    "rewardPerEpoch": 406.0093,
+    "stake": 10481979,
+    "rewardPerEpoch": 413.1882,
     "commission": 1
    },
    {
     "id": "stake1.poolv1.near",
-    "stake": 10459268,
-    "rewardPerEpoch": 405.1931,
+    "stake": 10463059,
+    "rewardPerEpoch": 412.3576,
     "commission": 0.03
    },
    {
     "id": "p2p-org.poolv1.near",
-    "stake": 9843962,
-    "rewardPerEpoch": 381.3561,
+    "stake": 9845507,
+    "rewardPerEpoch": 388.0991,
     "commission": 0.07
    },
    {
     "id": "dragonfly.poolv1.near",
-    "stake": 7955636,
-    "rewardPerEpoch": 308.2021,
+    "stake": 7956883,
+    "rewardPerEpoch": 313.6517,
     "commission": 0.05
    },
    {
     "id": "allnodes.poolv1.near",
-    "stake": 7096987,
-    "rewardPerEpoch": 274.9317,
+    "stake": 7116119,
+    "rewardPerEpoch": 280.3296,
     "commission": 0
    },
    {
     "id": "macrodatarefinement.poolv1.near",
-    "stake": 6731670,
-    "rewardPerEpoch": 260.7856,
+    "stake": 6732725,
+    "rewardPerEpoch": 265.3967,
     "commission": 0.06
    },
    {
     "id": "bisontrails.poolv1.near",
-    "stake": 6622003,
-    "rewardPerEpoch": 256.5371,
+    "stake": 6623041,
+    "rewardPerEpoch": 261.0731,
     "commission": 0.1
    },
    {
     "id": "silentnodes.pool.near",
-    "stake": 6076183,
-    "rewardPerEpoch": 235.392,
+    "stake": 6077136,
+    "rewardPerEpoch": 239.5541,
     "commission": 1
    },
    {
     "id": "svrn-twinstake.poolv1.near",
-    "stake": 6028406,
-    "rewardPerEpoch": 233.541,
+    "stake": 6029350,
+    "rewardPerEpoch": 237.6704,
     "commission": 1
    },
    {
     "id": "d1.poolv1.near",
-    "stake": 5941445,
-    "rewardPerEpoch": 229.5864,
+    "stake": 5942376,
+    "rewardPerEpoch": 234.242,
     "commission": 0.05
    },
    {
     "id": "lst-pool.near",
-    "stake": 4960729,
-    "rewardPerEpoch": 192.1964,
+    "stake": 5105432,
+    "rewardPerEpoch": 201.5329,
     "commission": 0.05
    },
    {
     "id": "legends.poolv1.near",
-    "stake": 4958675,
-    "rewardPerEpoch": 192.0995,
+    "stake": 4959452,
+    "rewardPerEpoch": 195.4962,
     "commission": 0.1
    },
    {
     "id": "stakin.poolv1.near",
-    "stake": 4644633,
-    "rewardPerEpoch": 179.9341,
+    "stake": 4649730,
+    "rewardPerEpoch": 183.1173,
     "commission": 0.02
    },
    {
     "id": "northernlights.poolv1.near",
-    "stake": 4590097,
-    "rewardPerEpoch": 177.8208,
+    "stake": 4590816,
+    "rewardPerEpoch": 180.965,
     "commission": 0.08
    },
    {
     "id": "okx-earn.poolv1.near",
-    "stake": 4580928,
-    "rewardPerEpoch": 174.2047,
+    "stake": 4531541,
+    "rewardPerEpoch": 180.6034,
     "commission": 0.05
    },
    {
     "id": "republic.poolv1.near",
-    "stake": 4322627,
-    "rewardPerEpoch": 167.459,
+    "stake": 4323304,
+    "rewardPerEpoch": 170.42,
     "commission": 0.1
    },
    {
     "id": "rekt.poolv1.near",
-    "stake": 3798270,
-    "rewardPerEpoch": 147.1454,
+    "stake": 3803173,
+    "rewardPerEpoch": 149.7472,
     "commission": 0.015
    },
    {
     "id": "ni.poolv1.near",
-    "stake": 3558482,
-    "rewardPerEpoch": 137.856,
+    "stake": 3559040,
+    "rewardPerEpoch": 140.2935,
     "commission": 0.04
    },
    {
     "id": "everstake.poolv1.near",
-    "stake": 3418575,
-    "rewardPerEpoch": 132.4368,
+    "stake": 3419007,
+    "rewardPerEpoch": 134.7735,
     "commission": 0.06
    },
    {
     "id": "gtnode-0.poolv1.near",
-    "stake": 3317128,
-    "rewardPerEpoch": 128.5059,
+    "stake": 3328404,
+    "rewardPerEpoch": 105.2132,
     "commission": 0.03
    },
    {
     "id": "nearfans.poolv1.near",
-    "stake": 3121255,
-    "rewardPerEpoch": 120.9177,
+    "stake": 3121744,
+    "rewardPerEpoch": 123.0558,
     "commission": 0.05
    },
    {
     "id": "nearone.pool.near",
-    "stake": 2933751,
-    "rewardPerEpoch": 113.6538,
+    "stake": 2934211,
+    "rewardPerEpoch": 115.6634,
     "commission": 0.1
    },
    {
     "id": "x.poolv1.near",
-    "stake": 2807195,
-    "rewardPerEpoch": 108.751,
+    "stake": 2807635,
+    "rewardPerEpoch": 110.6739,
     "commission": 1
    },
    {
     "id": "here.poolv1.near",
-    "stake": 2663002,
-    "rewardPerEpoch": 103.1501,
+    "stake": 2674584,
+    "rewardPerEpoch": 105.2262,
     "commission": 0.01
    },
    {
     "id": "bitcoinsuisse.poolv1.near",
-    "stake": 2382979,
-    "rewardPerEpoch": 92.3169,
+    "stake": 2383353,
+    "rewardPerEpoch": 93.9492,
     "commission": 1
    },
    {
     "id": "lux.poolv1.near",
-    "stake": 2275505,
-    "rewardPerEpoch": 88.1533,
+    "stake": 2275861,
+    "rewardPerEpoch": 89.712,
     "commission": 0.05
    },
    {
     "id": "anonymous.poolv1.near",
-    "stake": 2258824,
-    "rewardPerEpoch": 87.5071,
+    "stake": 2259178,
+    "rewardPerEpoch": 89.0544,
     "commission": 1
    },
    {
     "id": "erm.poolv1.near",
-    "stake": 2254540,
-    "rewardPerEpoch": 87.3411,
+    "stake": 2254894,
+    "rewardPerEpoch": 88.8855,
     "commission": 0.08
    },
    {
     "id": "npro.poolv1.near",
-    "stake": 2225445,
-    "rewardPerEpoch": 86.1219,
+    "stake": 2212306,
+    "rewardPerEpoch": 87.7834,
     "commission": 1
    },
    {
     "id": "blockdaemon.poolv1.near",
-    "stake": 2164412,
-    "rewardPerEpoch": 83.8496,
+    "stake": 2164752,
+    "rewardPerEpoch": 85.3322,
     "commission": 0.1
    },
    {
     "id": "dsrvlabs.poolv1.near",
-    "stake": 2146319,
-    "rewardPerEpoch": 83.1486,
+    "stake": 2146655,
+    "rewardPerEpoch": 84.6188,
     "commission": 0.1
    },
    {
     "id": "twinstake.poolv1.near",
-    "stake": 2144352,
-    "rewardPerEpoch": 83.0724,
+    "stake": 2144688,
+    "rewardPerEpoch": 84.5413,
     "commission": 0.1
    },
    {
     "id": "baziliknear.poolv1.near",
-    "stake": 2078265,
-    "rewardPerEpoch": 80.1526,
+    "stake": 2079413,
+    "rewardPerEpoch": 81.9404,
     "commission": 0.07
    },
    {
     "id": "chorusone.poolv1.near",
-    "stake": 2074803,
-    "rewardPerEpoch": 80.3781,
+    "stake": 2075129,
+    "rewardPerEpoch": 81.7993,
     "commission": 0.08
    },
    {
     "id": "moonlet.poolv1.near",
-    "stake": 2061306,
-    "rewardPerEpoch": 79.8552,
+    "stake": 2061629,
+    "rewardPerEpoch": 81.2672,
     "commission": 0.05
    },
    {
     "id": "cryptium.poolv1.near",
-    "stake": 2054835,
-    "rewardPerEpoch": 79.6045,
+    "stake": 2055157,
+    "rewardPerEpoch": 81.012,
     "commission": 0.05
    },
    {
     "id": "buildlinks.poolv1.near",
-    "stake": 2042345,
-    "rewardPerEpoch": 79.1206,
+    "stake": 2042665,
+    "rewardPerEpoch": 80.5196,
     "commission": 0.05
    },
    {
     "id": "sofarsonear.poolv1.near",
-    "stake": 2002959,
-    "rewardPerEpoch": 77.5948,
+    "stake": 2003273,
+    "rewardPerEpoch": 78.9668,
     "commission": 0.07
    },
    {
     "id": "stakesabai.poolv1.near",
-    "stake": 1929632,
-    "rewardPerEpoch": 74.7541,
+    "stake": 1928908,
+    "rewardPerEpoch": 76.0759,
     "commission": 0.04
    },
    {
     "id": "meteor.poolv1.near",
-    "stake": 1885651,
-    "rewardPerEpoch": 73.035,
+    "stake": 1881126,
+    "rewardPerEpoch": 73.9612,
     "commission": 0.05
    },
    {
     "id": "autostake.poolv1.near",
-    "stake": 1784786,
-    "rewardPerEpoch": 69.1478,
+    "stake": 1789949,
+    "rewardPerEpoch": 70.3999,
     "commission": 0
    },
    {
     "id": "falcon.pool.near",
-    "stake": 1774108,
-    "rewardPerEpoch": 68.7291,
+    "stake": 1778699,
+    "rewardPerEpoch": 69.9444,
     "commission": 0.01
    },
    {
     "id": "lunanova.poolv1.near",
-    "stake": 1724184,
-    "rewardPerEpoch": 66.7951,
+    "stake": 1724454,
+    "rewardPerEpoch": 67.9761,
     "commission": 0.07
    },
    {
     "id": "openshards.poolv1.near",
-    "stake": 1617419,
-    "rewardPerEpoch": 62.659,
+    "stake": 1617672,
+    "rewardPerEpoch": 63.7669,
     "commission": 0.05
    },
    {
     "id": "trust-nodes.poolv1.near",
-    "stake": 1528211,
-    "rewardPerEpoch": 59.1874,
+    "stake": 1529213,
+    "rewardPerEpoch": 60.2738,
     "commission": 0.1
    },
    {
     "id": "kiln.poolv1.near",
-    "stake": 1513052,
-    "rewardPerEpoch": 58.6158,
+    "stake": 1513289,
+    "rewardPerEpoch": 59.6522,
     "commission": 1
    },
    {
     "id": "qbit.poolv1.near",
-    "stake": 1491247,
-    "rewardPerEpoch": 57.7711,
+    "stake": 1491481,
+    "rewardPerEpoch": 58.7926,
     "commission": 0.05
    },
    {
     "id": "eno-blockdaemon0.pool.near",
-    "stake": 1410287,
-    "rewardPerEpoch": 54.5567,
+    "stake": 1410621,
+    "rewardPerEpoch": 55.6052,
     "commission": 0.08
    },
    {
     "id": "nearai.pool.near",
-    "stake": 1390267,
-    "rewardPerEpoch": 53.9429,
+    "stake": 1395097,
+    "rewardPerEpoch": 54.9882,
     "commission": 1
    },
    {
     "id": "hb436_pool.poolv1.near",
-    "stake": 1380909,
-    "rewardPerEpoch": 53.4965,
+    "stake": 1381125,
+    "rewardPerEpoch": 54.4425,
     "commission": 1
    },
    {
     "id": "brea.poolv1.near",
-    "stake": 1349566,
-    "rewardPerEpoch": 52.2823,
+    "stake": 1349777,
+    "rewardPerEpoch": 53.2068,
     "commission": 0.08
    },
    {
     "id": "masternode24.poolv1.near",
-    "stake": 1285270,
-    "rewardPerEpoch": 49.7915,
+    "stake": 1285472,
+    "rewardPerEpoch": 50.6719,
     "commission": 0.08
    },
    {
     "id": "stardust.poolv1.near",
-    "stake": 1243432,
-    "rewardPerEpoch": 48.1707,
+    "stake": 1243627,
+    "rewardPerEpoch": 49.0224,
     "commission": 0.05
    },
    {
     "id": "luganodes.pool.near",
-    "stake": 1224083,
-    "rewardPerEpoch": 47.4211,
+    "stake": 1224275,
+    "rewardPerEpoch": 48.2596,
     "commission": 0.07
    },
    {
     "id": "avado.poolv1.near",
-    "stake": 1176205,
-    "rewardPerEpoch": 45.5663,
+    "stake": 1176389,
+    "rewardPerEpoch": 46.372,
     "commission": 0.05
    },
    {
     "id": "01node.poolv1.near",
-    "stake": 1117511,
-    "rewardPerEpoch": 43.2925,
+    "stake": 1119840,
+    "rewardPerEpoch": 44.058,
     "commission": 0.03
    },
    {
-    "id": "bisontrails2.poolv1.near",
-    "stake": 1109292,
-    "rewardPerEpoch": 42.9741,
-    "commission": 0.1
-   },
-   {
     "id": "stakely_io.poolv1.near",
-    "stake": 1105886,
-    "rewardPerEpoch": 42.7842,
+    "stake": 1111385,
+    "rewardPerEpoch": 43.5919,
     "commission": 0.01
    },
    {
+    "id": "bisontrails2.poolv1.near",
+    "stake": 1109465,
+    "rewardPerEpoch": 43.7339,
+    "commission": 0.1
+   },
+   {
     "id": "dexagon.poolv1.near",
-    "stake": 1072645,
-    "rewardPerEpoch": 41.5546,
+    "stake": 1077125,
+    "rewardPerEpoch": 42.2891,
     "commission": 0.01
    },
    {
     "id": "staking4all.poolv1.near",
-    "stake": 1028513,
-    "rewardPerEpoch": 39.8447,
+    "stake": 1032947,
+    "rewardPerEpoch": 40.5492,
     "commission": 0.01
    },
    {
     "id": "atomic-nodes.poolv1.near",
-    "stake": 1025493,
-    "rewardPerEpoch": 39.7265,
+    "stake": 1026302,
+    "rewardPerEpoch": 40.4526,
     "commission": 0.05
    },
    {
     "id": "lavenderfive.poolv1.near",
-    "stake": 1016852,
-    "rewardPerEpoch": 39.3929,
+    "stake": 1017012,
+    "rewardPerEpoch": 40.0895,
     "commission": 0.05
    },
    {
     "id": "polkachu.poolv1.near",
-    "stake": 927984,
-    "rewardPerEpoch": 35.9502,
+    "stake": 932435,
+    "rewardPerEpoch": 36.5858,
     "commission": 0
    },
    {
     "id": "smart-stake.poolv1.near",
-    "stake": 922321,
-    "rewardPerEpoch": 35.7308,
+    "stake": 922465,
+    "rewardPerEpoch": 36.3626,
     "commission": 0.05
    },
    {
     "id": "northstakenear.poolv1.near",
-    "stake": 910807,
-    "rewardPerEpoch": 35.2848,
+    "stake": 910950,
+    "rewardPerEpoch": 35.9087,
     "commission": 0.07
    },
    {
     "id": "namdokmai.poolv1.near",
-    "stake": 852212,
-    "rewardPerEpoch": 33.0148,
+    "stake": 856547,
+    "rewardPerEpoch": 33.5985,
     "commission": 0
    },
    {
     "id": "hapi.poolv1.near",
-    "stake": 847878,
-    "rewardPerEpoch": 32.8469,
+    "stake": 852324,
+    "rewardPerEpoch": 33.4277,
     "commission": 0.01
    },
    {
     "id": "near-prime.poolv1.near",
-    "stake": 834504,
-    "rewardPerEpoch": 32.3287,
+    "stake": 834634,
+    "rewardPerEpoch": 32.9004,
     "commission": 1
    },
    {
     "id": "nodeasy.poolv1.near",
-    "stake": 828346,
-    "rewardPerEpoch": 32.0902,
+    "stake": 830630,
+    "rewardPerEpoch": 32.6576,
     "commission": 0.03
    },
    {
     "id": "optimusvalidatornetwork.poolv1.near",
-    "stake": 797544,
-    "rewardPerEpoch": 30.8969,
+    "stake": 801980,
+    "rewardPerEpoch": 31.4432,
     "commission": 0.01
    },
    {
     "id": "near-prime-public.poolv1.near",
-    "stake": 773233,
-    "rewardPerEpoch": 29.9551,
+    "stake": 773354,
+    "rewardPerEpoch": 30.4848,
     "commission": 0.05
    },
    {
     "id": "rhea-validator.poolv1.near",
-    "stake": 765916,
-    "rewardPerEpoch": 29.6717,
+    "stake": 766037,
+    "rewardPerEpoch": 30.1963,
     "commission": 0.07
    },
    {
     "id": "p2pstaking.poolv1.near",
-    "stake": 740575,
-    "rewardPerEpoch": 28.6899,
+    "stake": 740691,
+    "rewardPerEpoch": 29.1972,
     "commission": 0.04
    },
    {
     "id": "hashquark.poolv1.near",
-    "stake": 699669,
-    "rewardPerEpoch": 27.1052,
+    "stake": 701930,
+    "rewardPerEpoch": 27.5845,
     "commission": 0.03
    },
    {
     "id": "fresh.poolv1.near",
-    "stake": 691784,
-    "rewardPerEpoch": 26.7998,
+    "stake": 696206,
+    "rewardPerEpoch": 27.2737,
     "commission": 0.019
    },
    {
     "id": "pangdao.poolv1.near",
-    "stake": 677195,
-    "rewardPerEpoch": 26.2393,
+    "stake": 679456,
+    "rewardPerEpoch": 26.6985,
     "commission": 0.03
    },
    {
     "id": "wackazong.poolv1.near",
-    "stake": 666810,
-    "rewardPerEpoch": 25.8323,
+    "stake": 671255,
+    "rewardPerEpoch": 26.289,
     "commission": 0.01
    },
    {
     "id": "getblockio.poolv1.near",
-    "stake": 656634,
-    "rewardPerEpoch": 25.4381,
+    "stake": 656737,
+    "rewardPerEpoch": 25.8879,
     "commission": 0.07
    },
    {
     "id": "pathrocknetwork.poolv1.near",
-    "stake": 628850,
-    "rewardPerEpoch": 24.362,
+    "stake": 633260,
+    "rewardPerEpoch": 24.7925,
     "commission": 0.01
    },
    {
     "id": "galactic.poolv1.near",
-    "stake": 622611,
-    "rewardPerEpoch": 24.12,
+    "stake": 622709,
+    "rewardPerEpoch": 24.5465,
     "commission": 0.05
    },
    {
     "id": "pandateam.poolv1.near",
-    "stake": 613859,
-    "rewardPerEpoch": 23.0325,
+    "stake": 613954,
+    "rewardPerEpoch": 24.2014,
     "commission": 0.05
    },
    {
     "id": "link.poolv1.near",
-    "stake": 609418,
-    "rewardPerEpoch": 23.6089,
+    "stake": 609514,
+    "rewardPerEpoch": 24.0264,
     "commission": 0.01
    },
    {
     "id": "appload.poolv1.near",
-    "stake": 585120,
-    "rewardPerEpoch": 22.6676,
+    "stake": 585212,
+    "rewardPerEpoch": 23.0684,
     "commission": 0.05
    },
    {
     "id": "colossus.poolv1.near",
-    "stake": 532910,
-    "rewardPerEpoch": 20.645,
+    "stake": 531669,
+    "rewardPerEpoch": 21.01,
     "commission": 0.07
    },
    {
     "id": "cryptoblossom.poolv1.near",
-    "stake": 500865,
-    "rewardPerEpoch": 19.4036,
+    "stake": 503098,
+    "rewardPerEpoch": 19.7467,
     "commission": 0.03
    },
    {
     "id": "cryptostake.poolv1.near",
-    "stake": 499688,
-    "rewardPerEpoch": 19.358,
+    "stake": 501921,
+    "rewardPerEpoch": 19.7002,
     "commission": 0.03
    },
    {
     "id": "shurik.poolv1.near",
-    "stake": 490253,
-    "rewardPerEpoch": 18.9924,
+    "stake": 492484,
+    "rewardPerEpoch": 19.3283,
     "commission": 0.03
    },
    {
     "id": "gfi-validator.poolv1.near",
-    "stake": 478906,
-    "rewardPerEpoch": 18.5529,
-    "commission": 0.05
-   },
-   {
-    "id": "bee1stake.poolv1.near",
-    "stake": 448277,
-    "rewardPerEpoch": 17.3663,
+    "stake": 463892,
+    "rewardPerEpoch": 18.7947,
     "commission": 0.05
    },
    {
     "id": "aurora.pool.near",
-    "stake": 447869,
-    "rewardPerEpoch": 17.3251,
+    "stake": 448476,
+    "rewardPerEpoch": 17.677,
     "commission": 0.99
    },
    {
+    "id": "bee1stake.poolv1.near",
+    "stake": 448347,
+    "rewardPerEpoch": 17.6734,
+    "commission": 0.05
+   },
+   {
     "id": "thecoding.pool.near",
-    "stake": 440479,
-    "rewardPerEpoch": 17.0642,
+    "stake": 440548,
+    "rewardPerEpoch": 17.3659,
     "commission": 0.05
    },
    {
     "id": "avb.poolv1.near",
-    "stake": 440113,
-    "rewardPerEpoch": 16.6408,
+    "stake": 440181,
+    "rewardPerEpoch": 17.3515,
     "commission": 0.2
    },
    {
     "id": "oharanodes.poolv1.near",
-    "stake": 437812,
-    "rewardPerEpoch": 16.9609,
+    "stake": 437881,
+    "rewardPerEpoch": 17.2608,
     "commission": 0.07
    },
    {
     "id": "grassets.poolv1.near",
-    "stake": 431325,
-    "rewardPerEpoch": 16.7096,
+    "stake": 431393,
+    "rewardPerEpoch": 17.005,
     "commission": 0.05
    },
    {
     "id": "oe.poolv1.near",
-    "stake": 410797,
-    "rewardPerEpoch": 15.2755,
+    "stake": 410861,
+    "rewardPerEpoch": 16.1957,
     "commission": 0.2
    },
    {
     "id": "stakecapitalgroup.poolv1.near",
-    "stake": 404601,
-    "rewardPerEpoch": 15.6743,
+    "stake": 404664,
+    "rewardPerEpoch": 15.9514,
     "commission": 0.07
    },
    {
     "id": "piertwopool.poolv1.near",
-    "stake": 402762,
-    "rewardPerEpoch": 15.603,
+    "stake": 402825,
+    "rewardPerEpoch": 15.8789,
     "commission": 0.07
    },
    {
     "id": "pinrocks.poolv1.near",
-    "stake": 397545,
-    "rewardPerEpoch": 15.401,
+    "stake": 397608,
+    "rewardPerEpoch": 15.6733,
     "commission": 0.05
    },
    {
     "id": "2pilot.poolv1.near",
-    "stake": 389948,
-    "rewardPerEpoch": 15.1066,
+    "stake": 394121,
+    "rewardPerEpoch": 15.3659,
     "commission": 0.01
    },
    {
     "id": "alphanodes.poolv1.near",
-    "stake": 374408,
-    "rewardPerEpoch": 14.5046,
+    "stake": 374467,
+    "rewardPerEpoch": 14.7611,
     "commission": 0.035
    },
    {
     "id": "ursamajor.poolv1.near",
-    "stake": 361123,
-    "rewardPerEpoch": 13.9899,
+    "stake": 363322,
+    "rewardPerEpoch": 14.2373,
     "commission": 0.03
    },
    {
     "id": "rockxv2.poolv1.near",
-    "stake": 346523,
-    "rewardPerEpoch": 13.4243,
+    "stake": 348732,
+    "rewardPerEpoch": 13.6617,
     "commission": 0.03
    },
    {
     "id": "stakecito.poolv1.near",
-    "stake": 336047,
-    "rewardPerEpoch": 13.0185,
+    "stake": 336100,
+    "rewardPerEpoch": 13.2487,
     "commission": 0.1
    },
    {
     "id": "stakerrash.poolv1.near",
-    "stake": 334841,
-    "rewardPerEpoch": 12.9718,
+    "stake": 334894,
+    "rewardPerEpoch": 13.2011,
     "commission": 0.05
    },
    {
-    "id": "cryptogarik.poolv1.near",
-    "stake": 334528,
-    "rewardPerEpoch": 12.9598,
-    "commission": 0.1
-   },
-   {
     "id": "cunum.poolv1.near",
-    "stake": 328020,
-    "rewardPerEpoch": 12.7075,
+    "stake": 332378,
+    "rewardPerEpoch": 12.9322,
     "commission": 0.01
    },
    {
+    "id": "cryptogarik.poolv1.near",
+    "stake": 330299,
+    "rewardPerEpoch": 13.0202,
+    "commission": 0.1
+   },
+   {
     "id": "shitzuapes-nf.pool.near",
-    "stake": 320602,
-    "rewardPerEpoch": 12.4201,
+    "stake": 320652,
+    "rewardPerEpoch": 12.6397,
     "commission": 1
    },
    {
     "id": "taxistake.poolv1.near",
-    "stake": 315122,
-    "rewardPerEpoch": 12.2079,
+    "stake": 315172,
+    "rewardPerEpoch": 12.4237,
     "commission": 0.05
    },
    {
     "id": "sharpdarts.poolv1.near",
-    "stake": 313903,
-    "rewardPerEpoch": 12.1606,
+    "stake": 313952,
+    "rewardPerEpoch": 12.3757,
     "commission": 0.05
    },
    {
     "id": "saxemberg.poolv1.near",
-    "stake": 313199,
-    "rewardPerEpoch": 12.1334,
+    "stake": 313248,
+    "rewardPerEpoch": 12.3479,
     "commission": 0.0388
    },
    {
     "id": "welldonestake.poolv1.near",
-    "stake": 312263,
-    "rewardPerEpoch": 12.0971,
+    "stake": 312312,
+    "rewardPerEpoch": 12.311,
     "commission": 0.05
    },
    {
     "id": "buildnear.poolv1.near",
-    "stake": 302314,
-    "rewardPerEpoch": 11.7117,
+    "stake": 302361,
+    "rewardPerEpoch": 11.9188,
     "commission": 0.08
    },
    {
     "id": "city-node-1.pool.near",
-    "stake": 302259,
-    "rewardPerEpoch": 11.7095,
+    "stake": 302306,
+    "rewardPerEpoch": 11.9166,
     "commission": 1
    },
    {
     "id": "ttt.poolv1.near",
-    "stake": 301026,
-    "rewardPerEpoch": 11.6618,
+    "stake": 301073,
+    "rewardPerEpoch": 11.868,
     "commission": 0.07
    },
    {
     "id": "city-node-2.pool.near",
-    "stake": 300784,
-    "rewardPerEpoch": 11.6524,
+    "stake": 300831,
+    "rewardPerEpoch": 11.8584,
     "commission": 1
    },
    {
     "id": "city-node-3.pool.near",
-    "stake": 300700,
-    "rewardPerEpoch": 11.6491,
+    "stake": 300747,
+    "rewardPerEpoch": 11.8551,
     "commission": 1
    },
    {
     "id": "staking-power.poolv1.near",
-    "stake": 300475,
-    "rewardPerEpoch": 11.6404,
+    "stake": 300522,
+    "rewardPerEpoch": 11.8463,
     "commission": 0.1
    },
    {
     "id": "city-node-4.pool.near",
-    "stake": 300189,
-    "rewardPerEpoch": 11.6293,
+    "stake": 300236,
+    "rewardPerEpoch": 11.835,
     "commission": 1
    },
    {
     "id": "g20.poolv1.near",
-    "stake": 298495,
-    "rewardPerEpoch": 11.5637,
+    "stake": 298542,
+    "rewardPerEpoch": 11.7682,
     "commission": 0.07
    },
    {
-    "id": "delightlabs.pool.near",
-    "stake": 295843,
-    "rewardPerEpoch": 11.461,
-    "commission": 0.05
-   },
-   {
     "id": "lovali.poolv1.near",
-    "stake": 294101,
-    "rewardPerEpoch": 11.3935,
+    "stake": 298458,
+    "rewardPerEpoch": 11.5949,
     "commission": 0.01
    },
    {
+    "id": "delightlabs.pool.near",
+    "stake": 295889,
+    "rewardPerEpoch": 11.6636,
+    "commission": 0.05
+   },
+   {
     "id": "epochrunner.poolv1.near",
-    "stake": 289894,
-    "rewardPerEpoch": 11.2305,
+    "stake": 292093,
+    "rewardPerEpoch": 11.4291,
     "commission": 0.03
    },
    {
     "id": "node_jkt.pool.near",
-    "stake": 283596,
-    "rewardPerEpoch": 10.9868,
+    "stake": 283641,
+    "rewardPerEpoch": 11.1808,
     "commission": 0.04
    },
    {
     "id": "minion.poolv1.near",
-    "stake": 283214,
-    "rewardPerEpoch": 10.9717,
+    "stake": 283258,
+    "rewardPerEpoch": 11.1657,
     "commission": 0.07
    },
    {
     "id": "gfs-ventures.poolv1.near",
-    "stake": 278877,
-    "rewardPerEpoch": 10.8037,
+    "stake": 278921,
+    "rewardPerEpoch": 10.9948,
     "commission": 0.08
    },
    {
     "id": "n0ok.poolv1.near",
-    "stake": 277962,
-    "rewardPerEpoch": 10.7683,
+    "stake": 278006,
+    "rewardPerEpoch": 10.9587,
     "commission": 0.05
    },
    {
     "id": "spectrum.poolv1.near",
-    "stake": 276769,
-    "rewardPerEpoch": 10.722,
+    "stake": 276812,
+    "rewardPerEpoch": 10.9116,
     "commission": 0.07
    },
    {
     "id": "nodosigiloso.pool.near",
-    "stake": 272593,
-    "rewardPerEpoch": 10.5603,
+    "stake": 272636,
+    "rewardPerEpoch": 10.747,
     "commission": 0.05
    },
    {
     "id": "intear.pool.near",
-    "stake": 268233,
-    "rewardPerEpoch": 10.3914,
+    "stake": 268301,
+    "rewardPerEpoch": 10.5751,
     "commission": 0
    },
    {
     "id": "snsmln.poolv1.near",
-    "stake": 261805,
-    "rewardPerEpoch": 10.1424,
+    "stake": 261846,
+    "rewardPerEpoch": 10.3217,
     "commission": 0.09
    },
    {
     "id": "nearstar.poolv1.near",
-    "stake": 256396,
-    "rewardPerEpoch": 9.9328,
+    "stake": 254291,
+    "rewardPerEpoch": 10.1084,
     "commission": 0.2
    },
    {
     "id": "abahmane.poolv1.near",
-    "stake": 253356,
-    "rewardPerEpoch": 9.815,
+    "stake": 253396,
+    "rewardPerEpoch": 9.9886,
     "commission": 0.1
    },
    {
+    "id": "caribnode.pool.near",
+    "stake": 247648,
+    "rewardPerEpoch": 9.5926,
+    "commission": 0.03
+   },
+   {
     "id": "nodeshub.pool.near",
-    "stake": 246174,
-    "rewardPerEpoch": 9.5368,
+    "stake": 246212,
+    "rewardPerEpoch": 9.7054,
     "commission": 0.05
    },
    {
     "id": "consensus_finoa_00.poolv1.near",
-    "stake": 245851,
-    "rewardPerEpoch": 9.5243,
+    "stake": 245889,
+    "rewardPerEpoch": 9.6927,
     "commission": 0.06
    },
    {
     "id": "stardust.pool.near",
-    "stake": 242060,
-    "rewardPerEpoch": 9.3774,
+    "stake": 242098,
+    "rewardPerEpoch": 9.5432,
     "commission": 0.05
    },
    {
-    "id": "caribnode.pool.near",
-    "stake": 241150,
-    "rewardPerEpoch": 12.0335,
-    "commission": 0.03
-   },
-   {
     "id": "near.poolv1.near",
-    "stake": 239181,
-    "rewardPerEpoch": 9.2659,
+    "stake": 239218,
+    "rewardPerEpoch": 9.4297,
     "commission": 0.07
    },
    {
     "id": "monresearch.poolv1.near",
-    "stake": 227880,
-    "rewardPerEpoch": 8.8281,
+    "stake": 227916,
+    "rewardPerEpoch": 8.9842,
     "commission": 0.1
    },
    {
     "id": "manexus.pool.near",
-    "stake": 226982,
-    "rewardPerEpoch": 8.7933,
+    "stake": 227018,
+    "rewardPerEpoch": 8.9488,
     "commission": 0.05
    },
    {
     "id": "owa.poolv1.near",
-    "stake": 225051,
-    "rewardPerEpoch": 8.307,
+    "stake": 225086,
+    "rewardPerEpoch": 8.8727,
     "commission": 0.2
    },
    {
     "id": "cryptocrew.poolv1.near",
-    "stake": 224727,
-    "rewardPerEpoch": 8.7059,
+    "stake": 224762,
+    "rewardPerEpoch": 8.8599,
     "commission": 0.05
    },
    {
     "id": "nearvietnamhub.poolv1.near",
-    "stake": 221581,
-    "rewardPerEpoch": 8.5841,
+    "stake": 220983,
+    "rewardPerEpoch": 8.7359,
     "commission": 0.08
    },
    {
     "id": "genesislab.poolv1.near",
-    "stake": 216549,
-    "rewardPerEpoch": 8.3891,
+    "stake": 216583,
+    "rewardPerEpoch": 8.5375,
     "commission": 0.07
    },
    {
     "id": "originstake.poolv1.near",
-    "stake": 209014,
-    "rewardPerEpoch": 8.0972,
+    "stake": 209047,
+    "rewardPerEpoch": 8.2404,
     "commission": 0.07
    },
    {
     "id": "solsticestaking.poolv1.near",
-    "stake": 207832,
-    "rewardPerEpoch": 8.0514,
+    "stake": 207864,
+    "rewardPerEpoch": 8.1938,
     "commission": 0.05
    },
    {
     "id": "frontlinedefi.pool.near",
-    "stake": 206323,
-    "rewardPerEpoch": 7.993,
+    "stake": 206355,
+    "rewardPerEpoch": 8.1343,
     "commission": 0.07
    },
    {
     "id": "digitalizados.pool.near",
-    "stake": 206149,
-    "rewardPerEpoch": 7.6212,
+    "stake": 206181,
+    "rewardPerEpoch": 8.1274,
     "commission": 0.07
    },
    {
     "id": "camelandgoat.pool.near",
-    "stake": 200994,
-    "rewardPerEpoch": 7.4796,
+    "stake": 201025,
+    "rewardPerEpoch": 7.9242,
     "commission": 0.2
    },
    {
@@ -1205,50 +1205,50 @@
    },
    {
     "id": "encapsulate.pool.near",
-    "stake": 182317,
-    "rewardPerEpoch": 7.063,
+    "stake": 182345,
+    "rewardPerEpoch": 7.1879,
     "commission": 0.05
    },
    {
     "id": "meria-staking.poolv1.near",
-    "stake": 182272,
-    "rewardPerEpoch": 7.0612,
+    "stake": 182300,
+    "rewardPerEpoch": 7.1861,
     "commission": 0.08
    },
    {
     "id": "senseinode.poolv1.near",
-    "stake": 179151,
-    "rewardPerEpoch": 6.9403,
+    "stake": 179179,
+    "rewardPerEpoch": 7.063,
     "commission": 0.07
    },
    {
     "id": "dteamtech.pool.near",
-    "stake": 168778,
-    "rewardPerEpoch": 6.5385,
+    "stake": 171717,
+    "rewardPerEpoch": 6.6541,
     "commission": 0
    },
    {
     "id": "idtcn4.poolv1.near",
-    "stake": 166826,
-    "rewardPerEpoch": 5.9895,
+    "stake": 166851,
+    "rewardPerEpoch": 6.5771,
     "commission": 0.1
    },
    {
     "id": "stakinghub.pool.near",
-    "stake": 160777,
-    "rewardPerEpoch": 6.2286,
+    "stake": 160757,
+    "rewardPerEpoch": 6.3386,
     "commission": 0.2
    },
    {
     "id": "incrypted.poolv1.near",
-    "stake": 156456,
-    "rewardPerEpoch": 6.0529,
+    "stake": 158635,
+    "rewardPerEpoch": 6.1683,
     "commission": 0.03
    },
    {
     "id": "spacenode.pool.near",
-    "stake": 147449,
-    "rewardPerEpoch": 5.7122,
+    "stake": 147426,
+    "rewardPerEpoch": 5.8114,
     "commission": 1
    },
    {
@@ -1259,206 +1259,200 @@
    },
    {
     "id": "holo.pool.near",
-    "stake": 132750,
-    "rewardPerEpoch": 5.1428,
+    "stake": 128349,
+    "rewardPerEpoch": 5.2337,
     "commission": 0.08
    },
    {
     "id": "readylayerone_staking.poolv1.near",
-    "stake": 121024,
-    "rewardPerEpoch": 4.6885,
+    "stake": 121043,
+    "rewardPerEpoch": 4.7714,
     "commission": 0.1
    },
    {
     "id": "pairpoint.poolv1.near",
-    "stake": 119902,
-    "rewardPerEpoch": 4.645,
+    "stake": 119921,
+    "rewardPerEpoch": 4.7272,
     "commission": 0.07
    },
    {
     "id": "anyroute.pool.near",
-    "stake": 117367,
-    "rewardPerEpoch": 4.5468,
+    "stake": 117385,
+    "rewardPerEpoch": 4.6272,
     "commission": 0.06
    },
    {
     "id": "stakesstone.poolv1.near",
-    "stake": 115385,
-    "rewardPerEpoch": 4.47,
+    "stake": 115403,
+    "rewardPerEpoch": 4.5491,
     "commission": 0.1
    },
    {
-    "id": "criptoplebada.pool.near",
-    "stake": 108957,
-    "rewardPerEpoch": 4.221,
-    "commission": 0.07
-   },
-   {
     "id": "pingpay.pool.near",
-    "stake": 107755,
-    "rewardPerEpoch": 4.1989,
+    "stake": 107772,
+    "rewardPerEpoch": 4.2483,
     "commission": 0.04
    },
    {
+    "id": "criptoplebada.pool.near",
+    "stake": 106818,
+    "rewardPerEpoch": 4.2107,
+    "commission": 0.07
+   },
+   {
     "id": "artemis.pool.near",
-    "stake": 101989,
-    "rewardPerEpoch": 3.9511,
+    "stake": 102005,
+    "rewardPerEpoch": 4.0209,
     "commission": 0.2
    },
    {
     "id": "accomplice.poolv1.near",
-    "stake": 96484,
-    "rewardPerEpoch": 3.7378,
+    "stake": 96499,
+    "rewardPerEpoch": 3.8039,
     "commission": 1
    },
    {
-    "id": "swissstar.poolv1.near",
-    "stake": 92403,
-    "rewardPerEpoch": 3.5797,
-    "commission": 0.07
-   },
-   {
     "id": "smartnode.poolv1.near",
-    "stake": 92021,
-    "rewardPerEpoch": 3.5649,
+    "stake": 94184,
+    "rewardPerEpoch": 3.6279,
     "commission": 0.03
    },
    {
-    "id": "kiso_pool.pool.near",
-    "stake": 91610,
-    "rewardPerEpoch": 3.549,
-    "commission": 0.05
+    "id": "swissstar.poolv1.near",
+    "stake": 92417,
+    "rewardPerEpoch": 3.643,
+    "commission": 0.07
    },
    {
-    "id": "nodoethlima.pool.near",
-    "stake": 88522,
-    "rewardPerEpoch": 3.4294,
+    "id": "kiso_pool.pool.near",
+    "stake": 91624,
+    "rewardPerEpoch": 3.6117,
     "commission": 0.05
    },
    {
     "id": "shitzu.pool.near",
-    "stake": 88335,
-    "rewardPerEpoch": 3.4221,
+    "stake": 88349,
+    "rewardPerEpoch": 3.4826,
     "commission": 0.25
    },
    {
     "id": "near-fans.poolv1.near",
-    "stake": 86236,
-    "rewardPerEpoch": 3.3408,
+    "stake": 86164,
+    "rewardPerEpoch": 3.3965,
     "commission": 0.6
    },
    {
+    "id": "ou812.poolv1.near",
+    "stake": 85466,
+    "rewardPerEpoch": 3.1993,
+    "commission": 0.01
+   },
+   {
     "id": "nightly-pool.pool.near",
-    "stake": 84740,
-    "rewardPerEpoch": 3.2828,
+    "stake": 84753,
+    "rewardPerEpoch": 3.3409,
     "commission": 0.05
    },
    {
     "id": "axianetwork.pool.near",
-    "stake": 84494,
-    "rewardPerEpoch": 2.7759,
+    "stake": 84507,
+    "rewardPerEpoch": 3.3312,
     "commission": 0.2
    },
    {
     "id": "binancestaking.poolv1.near",
-    "stake": 84329,
-    "rewardPerEpoch": 3.2669,
+    "stake": 84342,
+    "rewardPerEpoch": 3.3247,
     "commission": 0.2
    },
    {
     "id": "jagon.poolv1.near",
-    "stake": 82649,
-    "rewardPerEpoch": 3.2018,
+    "stake": 82662,
+    "rewardPerEpoch": 3.2584,
     "commission": 0.1
    },
    {
-    "id": "ou812.poolv1.near",
-    "stake": 81148,
-    "rewardPerEpoch": 3.1437,
-    "commission": 0.01
-   },
-   {
     "id": "nansen.poolv1.near",
-    "stake": 81007,
-    "rewardPerEpoch": 3.1382,
+    "stake": 81020,
+    "rewardPerEpoch": 3.1937,
     "commission": 0.07
    },
    {
     "id": "yanshekki.pool.near",
-    "stake": 80198,
-    "rewardPerEpoch": 3.1069,
+    "stake": 80199,
+    "rewardPerEpoch": 3.1618,
     "commission": 0.07
    },
    {
     "id": "svarog.poolv1.near",
-    "stake": 78939,
-    "rewardPerEpoch": 3.0581,
+    "stake": 78952,
+    "rewardPerEpoch": 3.1122,
     "commission": 0.09
    },
    {
     "id": "stakecraft.poolv1.near",
-    "stake": 76889,
-    "rewardPerEpoch": 2.9787,
+    "stake": 76886,
+    "rewardPerEpoch": 3.0308,
     "commission": 0.09
    },
    {
     "id": "davaymne.poolv1.near",
-    "stake": 73586,
-    "rewardPerEpoch": 2.8507,
+    "stake": 73598,
+    "rewardPerEpoch": 2.9012,
     "commission": 0.07
    },
    {
     "id": "consensus_finoa_01.poolv1.near",
-    "stake": 72183,
-    "rewardPerEpoch": 2.7964,
+    "stake": 73141,
+    "rewardPerEpoch": 2.7132,
     "commission": 0.06
    },
    {
     "id": "vitalpoint.pool.near",
-    "stake": 70578,
-    "rewardPerEpoch": 2.7342,
-    "commission": 0.05
-   },
-   {
-    "id": "nearuaguild.poolv1.near",
-    "stake": 69284,
-    "rewardPerEpoch": 2.6841,
-    "commission": 0.07
-   },
-   {
-    "id": "stakeflow.poolv1.near",
-    "stake": 67085,
-    "rewardPerEpoch": 2.5989,
-    "commission": 0.05
-   },
-   {
-    "id": "neardevgov.poolv1.near",
-    "stake": 66794,
-    "rewardPerEpoch": 2.5876,
-    "commission": 0.1
-   },
-   {
-    "id": "prophet.poolv1.near",
-    "stake": 65201,
-    "rewardPerEpoch": 2.5259,
+    "stake": 70589,
+    "rewardPerEpoch": 2.7826,
     "commission": 0.05
    },
    {
     "id": "fialka.poolv1.near",
-    "stake": 65002,
-    "rewardPerEpoch": 2.5182,
+    "stake": 69321,
+    "rewardPerEpoch": 2.5627,
     "commission": 0.001
    },
    {
+    "id": "nearuaguild.poolv1.near",
+    "stake": 69295,
+    "rewardPerEpoch": 2.7315,
+    "commission": 0.07
+   },
+   {
+    "id": "stakeflow.poolv1.near",
+    "stake": 67096,
+    "rewardPerEpoch": 2.6448,
+    "commission": 0.05
+   },
+   {
+    "id": "neardevgov.poolv1.near",
+    "stake": 66804,
+    "rewardPerEpoch": 2.6333,
+    "commission": 0.1
+   },
+   {
+    "id": "prophet.poolv1.near",
+    "stake": 65167,
+    "rewardPerEpoch": 2.5706,
+    "commission": 0.05
+   },
+   {
     "id": "agrestus.poolv1.near",
-    "stake": 61354,
-    "rewardPerEpoch": 2.3769,
+    "stake": 61363,
+    "rewardPerEpoch": 2.4189,
     "commission": 0.1
    },
    {
     "id": "takeshi7.pool.near",
-    "stake": 60550,
-    "rewardPerEpoch": 2.3457,
+    "stake": 60559,
+    "rewardPerEpoch": 2.3872,
     "commission": 0.07
    },
    {
@@ -1469,698 +1463,704 @@
    },
    {
     "id": "itrocket.poolv1.near",
-    "stake": 57008,
-    "rewardPerEpoch": 2.2085,
+    "stake": 55865,
+    "rewardPerEpoch": 2.2475,
     "commission": 0.07
    },
    {
     "id": "cosmicvalidator.poolv1.near",
-    "stake": 55452,
-    "rewardPerEpoch": 2.1482,
+    "stake": 55460,
+    "rewardPerEpoch": 2.1862,
     "commission": 0.1
    },
    {
     "id": "kcdappnode.pool.near",
-    "stake": 51897,
-    "rewardPerEpoch": 1.5609,
-    "commission": 0.07
-   },
-   {
-    "id": "lanceprotocol.pool.near",
-    "stake": 51607,
-    "rewardPerEpoch": 1.9993,
-    "commission": 0.07
-   },
-   {
-    "id": "encipher.poolv1.near",
-    "stake": 51490,
-    "rewardPerEpoch": 1.9947,
-    "commission": 0.1
-   },
-   {
-    "id": "meduza.poolv1.near",
-    "stake": 51303,
-    "rewardPerEpoch": 1.9875,
-    "commission": 0.09
-   },
-   {
-    "id": "web3edu.pool.near",
-    "stake": 50783,
-    "rewardPerEpoch": 1.9673,
-    "commission": 0.07
-   },
-   {
-    "id": "gruberx.poolv1.near",
-    "stake": 49955,
-    "rewardPerEpoch": 1.9353,
-    "commission": 0.1
-   },
-   {
-    "id": "voxdei.pool.near",
-    "stake": 49693,
-    "rewardPerEpoch": 1.9251,
-    "commission": 0
-   },
-   {
-    "id": "finoa.poolv1.near",
-    "stake": 48565,
-    "rewardPerEpoch": 1.8814,
-    "commission": 0.1
-   },
-   {
-    "id": "chuy.poolv1.near",
-    "stake": 47684,
-    "rewardPerEpoch": 1.8473,
-    "commission": 0.07
-   },
-   {
-    "id": "lumennodes.pool.near",
-    "stake": 45507,
-    "rewardPerEpoch": 1.9759,
-    "commission": 0.05
-   },
-   {
-    "id": "cryptomorfosis.pool.near",
-    "stake": 45393,
-    "rewardPerEpoch": 1.5531,
-    "commission": 0.05
-   },
-   {
-    "id": "pho-crypto.pool.near",
-    "stake": 45378,
-    "rewardPerEpoch": 1.758,
-    "commission": 0.03
-   },
-   {
-    "id": "endorphinestake.pool.near",
-    "stake": 45006,
-    "rewardPerEpoch": 1.7436,
-    "commission": 0.05
-   },
-   {
-    "id": "generatusueldo.pool.near",
-    "stake": 44178,
-    "rewardPerEpoch": 1.7115,
-    "commission": 0.05
-   },
-   {
-    "id": "ultravioletadao.pool.near",
-    "stake": 43288,
-    "rewardPerEpoch": 1.677,
-    "commission": 0.05
-   },
-   {
-    "id": "ishak.pool.near",
-    "stake": 43222,
-    "rewardPerEpoch": 1.6744,
-    "commission": 0.07
-   },
-   {
-    "id": "samir.pool.near",
-    "stake": 43207,
-    "rewardPerEpoch": 1.6738,
-    "commission": 0.07
-   },
-   {
-    "id": "synclub.poolv1.near",
-    "stake": 42039,
-    "rewardPerEpoch": 1.6286,
-    "commission": 0.3
-   },
-   {
-    "id": "flarebank.pool.near",
-    "stake": 41837,
-    "rewardPerEpoch": 1.6208,
-    "commission": 0.05
-   },
-   {
-    "id": "dustinhuynh.pool.near",
-    "stake": 41749,
-    "rewardPerEpoch": 1.6174,
-    "commission": 0.06
-   },
-   {
-    "id": "snoopfear.poolv1.near",
-    "stake": 41500,
-    "rewardPerEpoch": 1.6077,
-    "commission": 0.1
-   },
-   {
-    "id": "pumpopoly.poolv1.near",
-    "stake": 41183,
-    "rewardPerEpoch": 1.5954,
-    "commission": 0.07
-   },
-   {
-    "id": "fish.poolv1.near",
-    "stake": 41178,
-    "rewardPerEpoch": 1.5953,
-    "commission": 1
-   },
-   {
-    "id": "imtroyphung.pool.near",
-    "stake": 41099,
-    "rewardPerEpoch": 1.5922,
-    "commission": 0.07
-   },
-   {
-    "id": "tme.pool.near",
-    "stake": 41089,
-    "rewardPerEpoch": 1.5918,
-    "commission": 0.07
-   },
-   {
-    "id": "realtuantv.pool.near",
-    "stake": 40635,
-    "rewardPerEpoch": 1.5742,
-    "commission": 0.07
-   },
-   {
-    "id": "nearlove.pool.near",
-    "stake": 40429,
-    "rewardPerEpoch": 1.5662,
-    "commission": 0.05
-   },
-   {
-    "id": "block-pro.poolv1.near",
-    "stake": 40330,
-    "rewardPerEpoch": 1.5624,
-    "commission": 0.05
-   },
-   {
-    "id": "poolarize.pool.near",
-    "stake": 40324,
-    "rewardPerEpoch": 1.5621,
-    "commission": 0.1
-   },
-   {
-    "id": "stakeup.poolv1.near",
-    "stake": 40303,
-    "rewardPerEpoch": 1.5613,
-    "commission": 0.05
-   },
-   {
-    "id": "asmolianin.pool.near",
-    "stake": 40291,
-    "rewardPerEpoch": 1.5609,
-    "commission": 0.07
-   },
-   {
-    "id": "nearbus.pool.near",
-    "stake": 40290,
-    "rewardPerEpoch": 1.5608,
-    "commission": 0.05
-   },
-   {
-    "id": "moko.pool.near",
-    "stake": 40269,
-    "rewardPerEpoch": 1.56,
-    "commission": 0.05
-   },
-   {
-    "id": "vyquocvu.pool.near",
-    "stake": 40267,
-    "rewardPerEpoch": 1.5599,
-    "commission": 0.05
-   },
-   {
-    "id": "griff.pool.near",
-    "stake": 40266,
-    "rewardPerEpoch": 1.5599,
-    "commission": 0.05
-   },
-   {
-    "id": "cygnus.pool.near",
-    "stake": 40263,
-    "rewardPerEpoch": 1.5598,
-    "commission": 0.05
-   },
-   {
-    "id": "herdaomx.pool.near",
-    "stake": 40252,
-    "rewardPerEpoch": 1.5594,
-    "commission": 0.07
-   },
-   {
-    "id": "waveslatam.pool.near",
-    "stake": 40252,
-    "rewardPerEpoch": 1.5594,
-    "commission": 0.07
-   },
-   {
-    "id": "zklatitudzero.pool.near",
-    "stake": 40208,
-    "rewardPerEpoch": 1.5577,
+    "stake": 51905,
+    "rewardPerEpoch": 2.046,
     "commission": 0.07
    },
    {
     "id": "nodevalidaorarif.pool.near",
-    "stake": 40200,
-    "rewardPerEpoch": 1.5574,
+    "stake": 51833,
+    "rewardPerEpoch": 1.6673,
+    "commission": 0.05
+   },
+   {
+    "id": "encipher.poolv1.near",
+    "stake": 51498,
+    "rewardPerEpoch": 2.03,
+    "commission": 0.1
+   },
+   {
+    "id": "meduza.poolv1.near",
+    "stake": 51311,
+    "rewardPerEpoch": 2.0226,
+    "commission": 0.09
+   },
+   {
+    "id": "web3edu.pool.near",
+    "stake": 50766,
+    "rewardPerEpoch": 2.0021,
+    "commission": 0.07
+   },
+   {
+    "id": "lanceprotocol.pool.near",
+    "stake": 50464,
+    "rewardPerEpoch": 2.0346,
+    "commission": 0.07
+   },
+   {
+    "id": "gruberx.poolv1.near",
+    "stake": 49963,
+    "rewardPerEpoch": 1.9695,
+    "commission": 0.1
+   },
+   {
+    "id": "voxdei.pool.near",
+    "stake": 49701,
+    "rewardPerEpoch": 1.9591,
+    "commission": 0
+   },
+   {
+    "id": "cryptomorfosis.pool.near",
+    "stake": 49686,
+    "rewardPerEpoch": 1.7896,
+    "commission": 0.05
+   },
+   {
+    "id": "lumennodes.pool.near",
+    "stake": 49374,
+    "rewardPerEpoch": 1.7941,
+    "commission": 0.05
+   },
+   {
+    "id": "finoa.poolv1.near",
+    "stake": 48573,
+    "rewardPerEpoch": 1.9147,
+    "commission": 0.1
+   },
+   {
+    "id": "nodoethlima.pool.near",
+    "stake": 48342,
+    "rewardPerEpoch": 0,
+    "commission": 0.05
+   },
+   {
+    "id": "chuy.poolv1.near",
+    "stake": 47691,
+    "rewardPerEpoch": 1.8799,
+    "commission": 0.07
+   },
+   {
+    "id": "pho-crypto.pool.near",
+    "stake": 47511,
+    "rewardPerEpoch": 1.789,
+    "commission": 0.03
+   },
+   {
+    "id": "nearlove.pool.near",
+    "stake": 46215,
+    "rewardPerEpoch": 1.5939,
+    "commission": 0.05
+   },
+   {
+    "id": "endorphinestake.pool.near",
+    "stake": 45013,
+    "rewardPerEpoch": 1.7744,
+    "commission": 0.05
+   },
+   {
+    "id": "generatusueldo.pool.near",
+    "stake": 44185,
+    "rewardPerEpoch": 1.7417,
+    "commission": 0.05
+   },
+   {
+    "id": "ultravioletadao.pool.near",
+    "stake": 43295,
+    "rewardPerEpoch": 1.7066,
+    "commission": 0.05
+   },
+   {
+    "id": "synclub.poolv1.near",
+    "stake": 42045,
+    "rewardPerEpoch": 1.6574,
+    "commission": 0.3
+   },
+   {
+    "id": "flarebank.pool.near",
+    "stake": 41844,
+    "rewardPerEpoch": 1.6494,
+    "commission": 0.05
+   },
+   {
+    "id": "dustinhuynh.pool.near",
+    "stake": 41756,
+    "rewardPerEpoch": 1.646,
+    "commission": 0.06
+   },
+   {
+    "id": "snoopfear.poolv1.near",
+    "stake": 41507,
+    "rewardPerEpoch": 1.6362,
+    "commission": 0.1
+   },
+   {
+    "id": "fish.poolv1.near",
+    "stake": 41185,
+    "rewardPerEpoch": 1.6235,
+    "commission": 1
+   },
+   {
+    "id": "block-pro.poolv1.near",
+    "stake": 40336,
+    "rewardPerEpoch": 1.59,
+    "commission": 0.05
+   },
+   {
+    "id": "poolarize.pool.near",
+    "stake": 40330,
+    "rewardPerEpoch": 1.5898,
+    "commission": 0.1
+   },
+   {
+    "id": "stakeup.poolv1.near",
+    "stake": 40309,
+    "rewardPerEpoch": 1.5889,
+    "commission": 0.05
+   },
+   {
+    "id": "nearbus.pool.near",
+    "stake": 40296,
+    "rewardPerEpoch": 1.5884,
+    "commission": 0.05
+   },
+   {
+    "id": "moko.pool.near",
+    "stake": 40276,
+    "rewardPerEpoch": 1.5876,
+    "commission": 0.05
+   },
+   {
+    "id": "vyquocvu.pool.near",
+    "stake": 40273,
+    "rewardPerEpoch": 1.5875,
+    "commission": 0.05
+   },
+   {
+    "id": "griff.pool.near",
+    "stake": 40272,
+    "rewardPerEpoch": 1.5875,
+    "commission": 0.05
+   },
+   {
+    "id": "cygnus.pool.near",
+    "stake": 40269,
+    "rewardPerEpoch": 1.5874,
     "commission": 0.05
    },
    {
     "id": "suryayoga.pool.near",
-    "stake": 40195,
-    "rewardPerEpoch": 1.5572,
+    "stake": 40202,
+    "rewardPerEpoch": 1.5847,
     "commission": 0.2
    },
    {
-    "id": "sparklenode.pool.near",
-    "stake": 40193,
-    "rewardPerEpoch": 1.5571,
-    "commission": 0.07
-   },
-   {
-    "id": "zolanear.pool.near",
-    "stake": 40189,
-    "rewardPerEpoch": 1.5569,
-    "commission": 0.07
-   },
-   {
-    "id": "keystake.pool.near",
-    "stake": 40176,
-    "rewardPerEpoch": 1.5564,
-    "commission": 0.07
-   },
-   {
-    "id": "zenith.pool.near",
-    "stake": 40166,
-    "rewardPerEpoch": 1.556,
-    "commission": 0.07
-   },
-   {
-    "id": "axol.pool.near",
-    "stake": 40163,
-    "rewardPerEpoch": 1.5559,
-    "commission": 0.07
-   },
-   {
-    "id": "stakesaurus.pool.near",
-    "stake": 40162,
-    "rewardPerEpoch": 1.5559,
-    "commission": 0.07
-   },
-   {
-    "id": "posthuman.poolv1.near",
-    "stake": 40157,
-    "rewardPerEpoch": 1.5557,
-    "commission": 0.07
-   },
-   {
-    "id": "secrypto.pool.near",
-    "stake": 40152,
-    "rewardPerEpoch": 1.5555,
-    "commission": 0.07
-   },
-   {
-    "id": "nodefleet.poolv1.near",
-    "stake": 40136,
-    "rewardPerEpoch": 1.5549,
-    "commission": 0.07
-   },
-   {
-    "id": "paradise.pool.near",
-    "stake": 40123,
-    "rewardPerEpoch": 1.5544,
-    "commission": 0.07
-   },
-   {
-    "id": "descilatam.pool.near",
-    "stake": 40121,
-    "rewardPerEpoch": 1.5543,
-    "commission": 0.07
-   },
-   {
-    "id": "hightower.pool.near",
-    "stake": 40115,
-    "rewardPerEpoch": 1.5541,
-    "commission": 0.07
-   },
-   {
-    "id": "stefco.pool.near",
-    "stake": 40111,
-    "rewardPerEpoch": 1.5539,
-    "commission": 0.07
-   },
-   {
-    "id": "droo.pool.near",
-    "stake": 40108,
-    "rewardPerEpoch": 1.5538,
-    "commission": 0.07
-   },
-   {
-    "id": "kaitenkenbu.pool.near",
-    "stake": 40107,
-    "rewardPerEpoch": 1.5538,
-    "commission": 0.07
-   },
-   {
     "id": "el3m3nt.pool.near",
-    "stake": 40072,
-    "rewardPerEpoch": 1.5524,
+    "stake": 40078,
+    "rewardPerEpoch": 1.5798,
     "commission": 0.05
    },
    {
-    "id": "noders.poolv1.near",
-    "stake": 40066,
-    "rewardPerEpoch": 1.5522,
-    "commission": 0.07
-   },
-   {
-    "id": "owlstakev2.pool.near",
-    "stake": 40064,
-    "rewardPerEpoch": 1.5521,
-    "commission": 0.07
-   },
-   {
     "id": "gabrululu.pool.near",
-    "stake": 40055,
-    "rewardPerEpoch": 1.5518,
+    "stake": 40062,
+    "rewardPerEpoch": 1.5792,
     "commission": 0.05
    },
    {
     "id": "perfect-nodes.pool.near",
-    "stake": 40054,
-    "rewardPerEpoch": 1.5517,
+    "stake": 40060,
+    "rewardPerEpoch": 1.5791,
     "commission": 0.05
    },
    {
     "id": "metatarz.pool.near",
-    "stake": 40053,
-    "rewardPerEpoch": 1.5516,
+    "stake": 40059,
+    "rewardPerEpoch": 1.5791,
     "commission": 0.05
-   },
-   {
-    "id": "madwisp.poolv1.near",
-    "stake": 40050,
-    "rewardPerEpoch": 1.5515,
-    "commission": 0.07
-   },
-   {
-    "id": "conqueror.poolv1.near",
-    "stake": 40043,
-    "rewardPerEpoch": 1.5513,
-    "commission": 0.07
    },
    {
     "id": "orpheus.pool.near",
-    "stake": 40043,
-    "rewardPerEpoch": 1.5513,
+    "stake": 40049,
+    "rewardPerEpoch": 1.5787,
     "commission": 0.08
    },
    {
-    "id": "zeycanode.pool.near",
-    "stake": 40043,
-    "rewardPerEpoch": 1.5513,
-    "commission": 0.07
-   },
-   {
-    "id": "bonynode.poolv1.near",
-    "stake": 40041,
-    "rewardPerEpoch": 1.5512,
-    "commission": 0.07
-   },
-   {
-    "id": "krews.pool.near",
-    "stake": 40039,
-    "rewardPerEpoch": 1.5511,
-    "commission": 0.07
-   },
-   {
-    "id": "chainflow.pool.near",
-    "stake": 40038,
-    "rewardPerEpoch": 1.5511,
-    "commission": 0.07
-   },
-   {
-    "id": "onnode.pool.near",
-    "stake": 40038,
-    "rewardPerEpoch": 1.5511,
-    "commission": 0.07
-   },
-   {
     "id": "nodevalidatorswimax.pool.near",
-    "stake": 40037,
-    "rewardPerEpoch": 1.551,
+    "stake": 40044,
+    "rewardPerEpoch": 1.5785,
     "commission": 0.05
-   },
-   {
-    "id": "seewhy.pool.near",
-    "stake": 40037,
-    "rewardPerEpoch": 1.551,
-    "commission": 0.07
    },
    {
     "id": "tothemoon.pool.near",
-    "stake": 40036,
-    "rewardPerEpoch": 1.551,
+    "stake": 40043,
+    "rewardPerEpoch": 1.5784,
     "commission": 0.05
    },
    {
-    "id": "medium-rare.pool.near",
-    "stake": 40034,
-    "rewardPerEpoch": 1.5509,
-    "commission": 0.07
-   },
-   {
-    "id": "thacsithinh.pool.near",
-    "stake": 40032,
-    "rewardPerEpoch": 1.5508,
-    "commission": 0.07
-   },
-   {
-    "id": "orion.pool.near",
-    "stake": 40028,
-    "rewardPerEpoch": 1.5507,
-    "commission": 0.07
-   },
-   {
-    "id": "ryo.pool.near",
-    "stake": 40024,
-    "rewardPerEpoch": 1.5505,
-    "commission": 0.07
-   },
-   {
-    "id": "sqrnode.pool.near",
-    "stake": 40023,
-    "rewardPerEpoch": 1.5505,
-    "commission": 0.07
-   },
-   {
-    "id": "darkfiber.pool.near",
-    "stake": 40023,
-    "rewardPerEpoch": 1.5505,
-    "commission": 0.07
-   },
-   {
-    "id": "zionnode.pool.near",
-    "stake": 40023,
-    "rewardPerEpoch": 1.5505,
-    "commission": 0.07
-   },
-   {
-    "id": "nerdlabs.pool.near",
-    "stake": 40022,
-    "rewardPerEpoch": 1.5505,
-    "commission": 0.07
-   },
-   {
-    "id": "archer.pool.near",
-    "stake": 40021,
-    "rewardPerEpoch": 1.5504,
-    "commission": 0.07
-   },
-   {
-    "id": "paleogarci.pool.near",
-    "stake": 40021,
-    "rewardPerEpoch": 1.5504,
-    "commission": 0.07
-   },
-   {
-    "id": "nodestake.pool.near",
-    "stake": 40021,
-    "rewardPerEpoch": 1.5504,
-    "commission": 0.07
-   },
-   {
-    "id": "chilldao.pool.near",
-    "stake": 40020,
-    "rewardPerEpoch": 1.5504,
-    "commission": 0.07
-   },
-   {
-    "id": "plasma.pool.near",
-    "stake": 40020,
-    "rewardPerEpoch": 1.5504,
-    "commission": 0.07
-   },
-   {
-    "id": "decentra.pool.near",
-    "stake": 40020,
-    "rewardPerEpoch": 1.5504,
-    "commission": 0.07
-   },
-   {
-    "id": "fliskodappnode.pool.near",
-    "stake": 40020,
-    "rewardPerEpoch": 1.5504,
-    "commission": 0.07
-   },
-   {
-    "id": "lantern.pool.near",
-    "stake": 40019,
-    "rewardPerEpoch": 1.5503,
-    "commission": 0.07
-   },
-   {
-    "id": "lemuria.pool.near",
-    "stake": 40019,
-    "rewardPerEpoch": 1.5503,
-    "commission": 0.07
-   },
-   {
-    "id": "latam-pool.pool.near",
-    "stake": 40019,
-    "rewardPerEpoch": 1.5503,
-    "commission": 0.07
-   },
-   {
-    "id": "volk.pool.near",
-    "stake": 40019,
-    "rewardPerEpoch": 1.5503,
-    "commission": 0.07
-   },
-   {
-    "id": "arubencastillog.pool.near",
-    "stake": 40018,
-    "rewardPerEpoch": 1.5503,
-    "commission": 0.07
-   },
-   {
-    "id": "arcis.pool.near",
-    "stake": 40017,
-    "rewardPerEpoch": 1.5503,
+    "id": "pumpopoly.poolv1.near",
+    "stake": 40038,
+    "rewardPerEpoch": 1.6236,
     "commission": 0.07
    },
    {
     "id": "frogling.pool.near",
-    "stake": 40016,
-    "rewardPerEpoch": 1.5502,
+    "stake": 40023,
+    "rewardPerEpoch": 1.5776,
     "commission": 0.06
-   },
-   {
-    "id": "zenzenode.pool.near",
-    "stake": 40015,
-    "rewardPerEpoch": 1.5502,
-    "commission": 0.07
-   },
-   {
-    "id": "r1m.pool.near",
-    "stake": 40015,
-    "rewardPerEpoch": 1.5502,
-    "commission": 0.07
-   },
-   {
-    "id": "00aboo203.pool.near",
-    "stake": 40015,
-    "rewardPerEpoch": 1.5502,
-    "commission": 0.07
-   },
-   {
-    "id": "rashid.pool.near",
-    "stake": 40014,
-    "rewardPerEpoch": 1.5502,
-    "commission": 0.07
-   },
-   {
-    "id": "zool.pool.near",
-    "stake": 40014,
-    "rewardPerEpoch": 1.5501,
-    "commission": 0.07
    },
    {
     "id": "arkila.pool.near",
-    "stake": 40014,
-    "rewardPerEpoch": 1.5501,
+    "stake": 40020,
+    "rewardPerEpoch": 1.5775,
     "commission": 0.06
    },
    {
-    "id": "wilbur.pool.near",
-    "stake": 40014,
-    "rewardPerEpoch": 1.5501,
+    "id": "imtroyphung.pool.near",
+    "stake": 39953,
+    "rewardPerEpoch": 1.6203,
     "commission": 0.07
    },
    {
-    "id": "nova-consortium.pool.near",
-    "stake": 40014,
-    "rewardPerEpoch": 1.5501,
+    "id": "tme.pool.near",
+    "stake": 39944,
+    "rewardPerEpoch": 1.62,
     "commission": 0.07
    },
    {
-    "id": "kristian_diary.pool.near",
-    "stake": 40014,
-    "rewardPerEpoch": 1.5501,
+    "id": "realtuantv.pool.near",
+    "stake": 39489,
+    "rewardPerEpoch": 1.602,
     "commission": 0.07
    },
    {
-    "id": "thedomain.pool.near",
-    "stake": 40013,
-    "rewardPerEpoch": 1.5501,
+    "id": "asmolianin.pool.near",
+    "stake": 39146,
+    "rewardPerEpoch": 1.5885,
     "commission": 0.07
    },
    {
-    "id": "chop.pool.near",
-    "stake": 40013,
-    "rewardPerEpoch": 1.5505,
+    "id": "herdaomx.pool.near",
+    "stake": 39107,
+    "rewardPerEpoch": 1.5869,
     "commission": 0.07
    },
    {
-    "id": "henym.pool.near",
-    "stake": 40013,
-    "rewardPerEpoch": 1.5501,
+    "id": "waveslatam.pool.near",
+    "stake": 39106,
+    "rewardPerEpoch": 1.5869,
     "commission": 0.07
    },
    {
-    "id": "medo198926.pool.near",
-    "stake": 40013,
-    "rewardPerEpoch": 1.5501,
+    "id": "zklatitudzero.pool.near",
+    "stake": 39063,
+    "rewardPerEpoch": 1.5852,
     "commission": 0.07
    },
    {
-    "id": "pojokripto.pool.near",
-    "stake": 40013,
-    "rewardPerEpoch": 1.5501,
+    "id": "zolanear.pool.near",
+    "stake": 39043,
+    "rewardPerEpoch": 1.5844,
     "commission": 0.07
    },
    {
-    "id": "lospinosdefi.pool.near",
-    "stake": 40012,
-    "rewardPerEpoch": 1.5501,
+    "id": "keystake.pool.near",
+    "stake": 39031,
+    "rewardPerEpoch": 1.584,
     "commission": 0.07
    },
    {
-    "id": "gmal22.pool.near",
-    "stake": 40012,
-    "rewardPerEpoch": 1.5501,
+    "id": "zenith.pool.near",
+    "stake": 39020,
+    "rewardPerEpoch": 1.5835,
     "commission": 0.07
    },
    {
-    "id": "ismail09.pool.near",
-    "stake": 40012,
-    "rewardPerEpoch": 1.5501,
+    "id": "axol.pool.near",
+    "stake": 39018,
+    "rewardPerEpoch": 1.5834,
+    "commission": 0.07
+   },
+   {
+    "id": "stakesaurus.pool.near",
+    "stake": 39016,
+    "rewardPerEpoch": 1.5834,
+    "commission": 0.07
+   },
+   {
+    "id": "posthuman.poolv1.near",
+    "stake": 39011,
+    "rewardPerEpoch": 1.5832,
+    "commission": 0.07
+   },
+   {
+    "id": "secrypto.pool.near",
+    "stake": 39007,
+    "rewardPerEpoch": 1.583,
+    "commission": 0.07
+   },
+   {
+    "id": "nodefleet.poolv1.near",
+    "stake": 38990,
+    "rewardPerEpoch": 1.5824,
+    "commission": 0.07
+   },
+   {
+    "id": "paradise.pool.near",
+    "stake": 38977,
+    "rewardPerEpoch": 1.5818,
+    "commission": 0.07
+   },
+   {
+    "id": "descilatam.pool.near",
+    "stake": 38976,
+    "rewardPerEpoch": 1.5818,
+    "commission": 0.07
+   },
+   {
+    "id": "hightower.pool.near",
+    "stake": 38969,
+    "rewardPerEpoch": 1.5815,
+    "commission": 0.07
+   },
+   {
+    "id": "stefco.pool.near",
+    "stake": 38966,
+    "rewardPerEpoch": 1.5814,
     "commission": 0.07
    },
    {
     "id": "magnavoxodyssey.pool.near",
-    "stake": 38957,
-    "rewardPerEpoch": 1.5092,
+    "stake": 38963,
+    "rewardPerEpoch": 1.5359,
     "commission": 0.2
    },
    {
+    "id": "droo.pool.near",
+    "stake": 38963,
+    "rewardPerEpoch": 1.5813,
+    "commission": 0.07
+   },
+   {
+    "id": "kaitenkenbu.pool.near",
+    "stake": 38962,
+    "rewardPerEpoch": 1.5812,
+    "commission": 0.07
+   },
+   {
+    "id": "noders.poolv1.near",
+    "stake": 38921,
+    "rewardPerEpoch": 1.5796,
+    "commission": 0.07
+   },
+   {
+    "id": "owlstakev2.pool.near",
+    "stake": 38918,
+    "rewardPerEpoch": 1.5795,
+    "commission": 0.07
+   },
+   {
+    "id": "madwisp.poolv1.near",
+    "stake": 38904,
+    "rewardPerEpoch": 1.579,
+    "commission": 0.07
+   },
+   {
+    "id": "conqueror.poolv1.near",
+    "stake": 38898,
+    "rewardPerEpoch": 1.5787,
+    "commission": 0.07
+   },
+   {
+    "id": "zeycanode.pool.near",
+    "stake": 38897,
+    "rewardPerEpoch": 1.5787,
+    "commission": 0.07
+   },
+   {
+    "id": "bonynode.poolv1.near",
+    "stake": 38895,
+    "rewardPerEpoch": 1.5786,
+    "commission": 0.07
+   },
+   {
+    "id": "krews.pool.near",
+    "stake": 38893,
+    "rewardPerEpoch": 1.5785,
+    "commission": 0.07
+   },
+   {
+    "id": "chainflow.pool.near",
+    "stake": 38893,
+    "rewardPerEpoch": 1.5785,
+    "commission": 0.07
+   },
+   {
+    "id": "onnode.pool.near",
+    "stake": 38892,
+    "rewardPerEpoch": 1.5785,
+    "commission": 0.07
+   },
+   {
+    "id": "seewhy.pool.near",
+    "stake": 38891,
+    "rewardPerEpoch": 1.5784,
+    "commission": 0.07
+   },
+   {
+    "id": "medium-rare.pool.near",
+    "stake": 38889,
+    "rewardPerEpoch": 1.5783,
+    "commission": 0.07
+   },
+   {
+    "id": "thacsithinh.pool.near",
+    "stake": 38886,
+    "rewardPerEpoch": 1.5783,
+    "commission": 0.07
+   },
+   {
+    "id": "orion.pool.near",
+    "stake": 38882,
+    "rewardPerEpoch": 1.5781,
+    "commission": 0.07
+   },
+   {
+    "id": "ryo.pool.near",
+    "stake": 38878,
+    "rewardPerEpoch": 1.5779,
+    "commission": 0.07
+   },
+   {
+    "id": "sqrnode.pool.near",
+    "stake": 38877,
+    "rewardPerEpoch": 1.5779,
+    "commission": 0.07
+   },
+   {
+    "id": "darkfiber.pool.near",
+    "stake": 38877,
+    "rewardPerEpoch": 1.5779,
+    "commission": 0.07
+   },
+   {
+    "id": "zionnode.pool.near",
+    "stake": 38877,
+    "rewardPerEpoch": 1.5779,
+    "commission": 0.07
+   },
+   {
+    "id": "nerdlabs.pool.near",
+    "stake": 38877,
+    "rewardPerEpoch": 1.5779,
+    "commission": 0.07
+   },
+   {
+    "id": "archer.pool.near",
+    "stake": 38876,
+    "rewardPerEpoch": 1.5778,
+    "commission": 0.07
+   },
+   {
+    "id": "paleogarci.pool.near",
+    "stake": 38875,
+    "rewardPerEpoch": 1.5778,
+    "commission": 0.07
+   },
+   {
+    "id": "nodestake.pool.near",
+    "stake": 38875,
+    "rewardPerEpoch": 1.5778,
+    "commission": 0.07
+   },
+   {
+    "id": "plasma.pool.near",
+    "stake": 38875,
+    "rewardPerEpoch": 1.5778,
+    "commission": 0.07
+   },
+   {
+    "id": "decentra.pool.near",
+    "stake": 38875,
+    "rewardPerEpoch": 1.5778,
+    "commission": 0.07
+   },
+   {
+    "id": "fliskodappnode.pool.near",
+    "stake": 38875,
+    "rewardPerEpoch": 1.5778,
+    "commission": 0.07
+   },
+   {
+    "id": "lantern.pool.near",
+    "stake": 38874,
+    "rewardPerEpoch": 1.5778,
+    "commission": 0.07
+   },
+   {
+    "id": "lemuria.pool.near",
+    "stake": 38874,
+    "rewardPerEpoch": 1.5778,
+    "commission": 0.07
+   },
+   {
+    "id": "latam-pool.pool.near",
+    "stake": 38873,
+    "rewardPerEpoch": 1.5777,
+    "commission": 0.07
+   },
+   {
+    "id": "volk.pool.near",
+    "stake": 38873,
+    "rewardPerEpoch": 1.5777,
+    "commission": 0.07
+   },
+   {
+    "id": "arubencastillog.pool.near",
+    "stake": 38872,
+    "rewardPerEpoch": 1.5777,
+    "commission": 0.07
+   },
+   {
+    "id": "arcis.pool.near",
+    "stake": 38872,
+    "rewardPerEpoch": 1.5777,
+    "commission": 0.07
+   },
+   {
+    "id": "ishak.pool.near",
+    "stake": 38872,
+    "rewardPerEpoch": 1.704,
+    "commission": 0.07
+   },
+   {
+    "id": "zenzenode.pool.near",
+    "stake": 38870,
+    "rewardPerEpoch": 1.5776,
+    "commission": 0.07
+   },
+   {
+    "id": "r1m.pool.near",
+    "stake": 38870,
+    "rewardPerEpoch": 1.5776,
+    "commission": 0.07
+   },
+   {
+    "id": "00aboo203.pool.near",
+    "stake": 38869,
+    "rewardPerEpoch": 1.5776,
+    "commission": 0.07
+   },
+   {
+    "id": "wilbur.pool.near",
+    "stake": 38868,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "nova-consortium.pool.near",
+    "stake": 38868,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "kristian_diary.pool.near",
+    "stake": 38868,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "thedomain.pool.near",
+    "stake": 38868,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "chop.pool.near",
+    "stake": 38868,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "henym.pool.near",
+    "stake": 38868,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "medo198926.pool.near",
+    "stake": 38867,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "samir.pool.near",
+    "stake": 38867,
+    "rewardPerEpoch": 1.7034,
+    "commission": 0.07
+   },
+   {
+    "id": "lospinosdefi.pool.near",
+    "stake": 38867,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "rashid.pool.near",
+    "stake": 38867,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "sparklenode.pool.near",
+    "stake": 38866,
+    "rewardPerEpoch": 1.5846,
+    "commission": 0.07
+   },
+   {
+    "id": "chilldao.pool.near",
+    "stake": 38866,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "gmal22.pool.near",
+    "stake": 38866,
+    "rewardPerEpoch": 1.5774,
+    "commission": 0.07
+   },
+   {
+    "id": "pojokripto.pool.near",
+    "stake": 38866,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
+    "id": "zool.pool.near",
+    "stake": 38866,
+    "rewardPerEpoch": 1.5776,
+    "commission": 0.07
+   },
+   {
+    "id": "ismail09.pool.near",
+    "stake": 38866,
+    "rewardPerEpoch": 1.5775,
+    "commission": 0.07
+   },
+   {
     "id": "mexa-staking.poolv1.near",
-    "stake": 37196,
-    "rewardPerEpoch": 1.441,
+    "stake": 37190,
+    "rewardPerEpoch": 1.4665,
     "commission": 0.1
    },
    {
@@ -2171,38 +2171,38 @@
    },
    {
     "id": "simplystaking.poolv1.near",
-    "stake": 32463,
-    "rewardPerEpoch": 1.2576,
+    "stake": 32468,
+    "rewardPerEpoch": 1.2798,
     "commission": 0.1
    },
    {
     "id": "croutondigital.pool.near",
-    "stake": 28897,
-    "rewardPerEpoch": 1.1195,
+    "stake": 28901,
+    "rewardPerEpoch": 1.1393,
     "commission": 0.05
    },
    {
     "id": "profit.poolv1.near",
-    "stake": 27263,
-    "rewardPerEpoch": 0.975,
+    "stake": 27267,
+    "rewardPerEpoch": 1.0748,
     "commission": 0
    },
    {
     "id": "rizzo.poolv1.near",
-    "stake": 26157,
-    "rewardPerEpoch": 1.0133,
+    "stake": 26161,
+    "rewardPerEpoch": 1.0312,
     "commission": 0.05
    },
    {
     "id": "solidstate.poolv1.near",
-    "stake": 19771,
-    "rewardPerEpoch": 0.7659,
+    "stake": 19774,
+    "rewardPerEpoch": 0.7795,
     "commission": 0.07
    },
    {
     "id": "wyvernomics.pool.near",
-    "stake": 19245,
-    "rewardPerEpoch": 0.7456,
+    "stake": 19248,
+    "rewardPerEpoch": 0.7588,
     "commission": 0.1
    },
    {
@@ -2225,8 +2225,8 @@
    },
    {
     "id": "stingray.poolv1.near",
-    "stake": 11361,
-    "rewardPerEpoch": 0.4401,
+    "stake": 11363,
+    "rewardPerEpoch": 0.4479,
     "commission": 0.09
    },
    {
@@ -2249,29 +2249,29 @@
    },
    {
     "id": "multiagency.poolv1.near",
-    "stake": 9861,
-    "rewardPerEpoch": 0.382,
+    "stake": 9863,
+    "rewardPerEpoch": 0.3888,
     "commission": 0.05
    }
   ]
  },
  "security": {
-  "costOneThirdUsd": 636485144.3698769,
-  "costTwoThirdsUsd": 1272970288.7397537,
-  "attackCostToTvl": 3.866139455699956,
-  "budgetPerDollarOfFees": 1.1894170484804254,
-  "annualFeesUsd": 88051742.47406308
+  "costOneThirdUsd": 637111391.8352766,
+  "costTwoThirdsUsd": 1274222783.6705532,
+  "attackCostToTvl": 3.8699434094236693,
+  "budgetPerDollarOfFees": 1.1893934291278812,
+  "annualFeesUsd": 88058526.71645063
  },
  "staker": {
   "today": {
-   "nominal": 0.03679782222542102,
-   "realStaker": 0.01183278942681576,
-   "realNonStaker": -0.024078978816737373
+   "nominal": 0.0367738043886536,
+   "realStaker": 0.011810772735215247,
+   "realNonStaker": -0.02407760646321322
   },
   "afterCut": {
-   "nominal": 0.02355060622426946,
-   "realStaker": 0.007718724198987781,
-   "realNonStaker": -0.015467610422979616
+   "nominal": 0.023535234808738308,
+   "realStaker": 0.007704833492450547,
+   "realNonStaker": -0.01546639605352318
   }
  },
  "growth": {
@@ -2429,56 +2429,56 @@
   "blockMonths": 3,
   "noCut": {
    "p10": [
-    0.1712,
+    0.1713,
     0.1496,
     0.1343,
     0.1229,
     0.1077,
     0.1009,
-    0.0911,
+    0.0912,
     0.0857,
     0.0865,
     0.0785,
-    0.0747,
-    0.0745,
+    0.0748,
+    0.0746,
     0.0688,
     0.066,
-    0.0645,
+    0.0646,
     0.0617,
-    0.0594,
-    0.0597,
+    0.0595,
+    0.0598,
     0.057,
-    0.0538,
+    0.0539,
     0.0534,
-    0.0523,
+    0.0524,
     0.05,
-    0.0486,
-    0.0461,
-    0.0443,
-    0.0447,
+    0.0487,
+    0.0462,
+    0.0444,
+    0.0448,
     0.0423,
     0.0406,
     0.0404,
-    0.0388,
+    0.0389,
     0.0369,
     0.0369,
     0.0354,
     0.0342,
     0.0339,
-    0.0327,
-    0.0318,
-    0.0313,
+    0.0328,
+    0.0319,
+    0.0314,
     0.03,
     0.0299,
     0.0295,
     0.0289,
     0.0287,
     0.0284,
-    0.0277,
+    0.0278,
     0.0271,
     0.0268,
     0.0263,
-    0.0254,
+    0.0255,
     0.0253,
     0.0249,
     0.0244,
@@ -2492,130 +2492,130 @@
     0.0209
    ],
    "p50": [
-    0.1712,
+    0.1713,
     0.1608,
-    0.1657,
+    0.1658,
     0.149,
-    0.1583,
-    0.1606,
+    0.1584,
+    0.1607,
     0.1693,
     0.1604,
-    0.1574,
-    0.155,
+    0.1575,
+    0.1551,
     0.1567,
     0.1528,
     0.1552,
     0.1518,
-    0.1529,
-    0.1532,
+    0.153,
+    0.1533,
     0.1525,
     0.1501,
     0.1448,
     0.1464,
-    0.1436,
-    0.1422,
+    0.1437,
+    0.1423,
     0.1429,
     0.1397,
-    0.1405,
-    0.1373,
+    0.1406,
+    0.1374,
     0.138,
-    0.135,
+    0.1351,
     0.1326,
     0.1319,
-    0.1297,
-    0.1289,
-    0.1278,
+    0.1298,
+    0.129,
+    0.1279,
     0.1276,
-    0.1271,
-    0.1292,
+    0.1272,
+    0.1293,
     0.1275,
-    0.1278,
-    0.1253,
-    0.1263,
+    0.1279,
+    0.1254,
+    0.1264,
     0.1247,
     0.1228,
     0.1225,
-    0.1213,
+    0.1214,
     0.1211,
-    0.1218,
-    0.1213,
+    0.1219,
+    0.1214,
     0.1204,
     0.1179,
     0.1187,
-    0.1158,
-    0.115,
-    0.1133,
+    0.1159,
+    0.1151,
+    0.1134,
+    0.1131,
     0.113,
-    0.113,
-    0.1108,
-    0.1099,
-    0.1102,
-    0.1082,
-    0.1075,
+    0.1109,
+    0.11,
+    0.1103,
+    0.1083,
+    0.1076,
     0.1065
    ],
    "p90": [
-    0.1712,
-    0.2372,
-    0.2082,
-    0.2884,
+    0.1713,
+    0.2373,
+    0.2083,
+    0.2885,
     0.2989,
     0.2893,
     0.2931,
-    0.3187,
-    0.3293,
-    0.3554,
-    0.3668,
-    0.3597,
-    0.3699,
-    0.3858,
-    0.3996,
-    0.4218,
-    0.4267,
-    0.4231,
-    0.4467,
-    0.4617,
-    0.4532,
-    0.466,
-    0.4834,
-    0.4816,
-    0.4875,
-    0.5097,
-    0.5136,
-    0.5255,
-    0.5421,
-    0.5491,
-    0.5558,
-    0.5654,
-    0.5658,
-    0.5935,
-    0.5826,
-    0.5803,
-    0.5826,
-    0.6013,
-    0.5949,
-    0.6223,
-    0.6255,
-    0.6309,
-    0.6418,
-    0.6514,
-    0.6488,
-    0.6638,
-    0.6602,
-    0.674,
-    0.6743,
+    0.3188,
+    0.3294,
+    0.3555,
+    0.3669,
+    0.3598,
+    0.37,
+    0.3859,
+    0.3997,
+    0.4219,
+    0.4268,
+    0.4232,
+    0.4468,
+    0.4618,
+    0.4533,
+    0.4661,
+    0.4835,
+    0.4817,
+    0.4876,
+    0.5098,
+    0.5137,
+    0.5256,
+    0.5422,
+    0.5492,
+    0.5559,
+    0.5655,
+    0.5659,
+    0.5936,
+    0.5827,
+    0.5804,
+    0.5827,
+    0.6014,
+    0.595,
+    0.6224,
+    0.6256,
+    0.631,
+    0.6419,
+    0.6515,
+    0.6489,
+    0.6639,
+    0.6604,
+    0.6741,
+    0.6744,
+    0.6936,
+    0.6763,
     0.6934,
-    0.6762,
-    0.6933,
-    0.7164,
-    0.6974,
-    0.7341,
-    0.7176,
-    0.7465,
-    0.73,
-    0.722,
-    0.7593,
-    0.7595
+    0.7165,
+    0.6975,
+    0.7343,
+    0.7178,
+    0.7466,
+    0.7301,
+    0.7222,
+    0.7595,
+    0.7597
    ],
    "probFullByMonth": [
     0,
@@ -2746,193 +2746,193 @@
   },
   "withCut": {
    "p10": [
-    0.1712,
+    0.1713,
     0.1496,
     0.1343,
     0.1229,
     0.1077,
-    0.1024,
-    0.0939,
-    0.0897,
-    0.092,
-    0.0848,
+    0.1025,
+    0.094,
+    0.0898,
+    0.0921,
+    0.0849,
     0.0822,
-    0.0833,
-    0.0782,
+    0.0834,
+    0.0783,
     0.0764,
-    0.076,
-    0.074,
-    0.0726,
+    0.0761,
+    0.0741,
+    0.0727,
     0.0744,
-    0.0723,
+    0.0724,
     0.0697,
-    0.0705,
+    0.0706,
     0.0706,
     0.0688,
     0.0684,
     0.0663,
+    0.0652,
+    0.0673,
     0.0651,
-    0.0672,
-    0.0651,
-    0.0639,
-    0.0636,
-    0.0613,
-    0.0582,
+    0.064,
+    0.0637,
+    0.0614,
     0.0583,
+    0.0584,
     0.056,
     0.0542,
-    0.0537,
+    0.0538,
     0.0519,
     0.0505,
     0.0498,
+    0.0477,
     0.0476,
-    0.0475,
     0.0469,
     0.046,
-    0.0457,
-    0.0452,
+    0.0458,
+    0.0453,
     0.0443,
-    0.0432,
-    0.0428,
-    0.042,
+    0.0433,
+    0.0429,
+    0.0421,
     0.0407,
-    0.0405,
-    0.0399,
+    0.0406,
+    0.04,
     0.0391,
     0.0387,
     0.0376,
-    0.0363,
+    0.0364,
     0.0365,
-    0.0351,
-    0.0349,
+    0.0352,
+    0.035,
     0.0353,
-    0.0337
+    0.0338
    ],
    "p50": [
-    0.1712,
+    0.1713,
     0.1608,
-    0.1657,
+    0.1658,
     0.149,
-    0.1583,
-    0.163,
-    0.1745,
-    0.1679,
+    0.1584,
+    0.1631,
+    0.1746,
+    0.168,
     0.1675,
-    0.1676,
-    0.1722,
+    0.1677,
+    0.1723,
     0.1708,
     0.1765,
     0.1757,
     0.1802,
-    0.1838,
-    0.1863,
-    0.1869,
+    0.1839,
+    0.1864,
+    0.187,
     0.1838,
     0.1895,
     0.1897,
-    0.1917,
-    0.1966,
+    0.1918,
+    0.1967,
     0.1964,
+    0.202,
     0.2019,
-    0.2018,
     0.2075,
-    0.2077,
-    0.2089,
+    0.2078,
+    0.209,
     0.208,
     0.2048,
-    0.2036,
-    0.202,
-    0.2018,
-    0.2012,
-    0.2047,
+    0.2037,
     0.2021,
-    0.2028,
-    0.199,
-    0.2007,
+    0.2019,
+    0.2013,
+    0.2048,
+    0.2022,
+    0.2029,
+    0.1991,
+    0.2008,
     0.1983,
     0.1954,
     0.1951,
-    0.1933,
-    0.1931,
-    0.1944,
-    0.1938,
-    0.1924,
-    0.1886,
+    0.1934,
+    0.1932,
+    0.1945,
+    0.1939,
+    0.1925,
+    0.1887,
     0.19,
-    0.1855,
-    0.1844,
-    0.1818,
-    0.1815,
+    0.1856,
+    0.1845,
+    0.1819,
     0.1816,
-    0.1782,
-    0.1769,
-    0.1775,
-    0.1744,
+    0.1816,
+    0.1783,
+    0.177,
+    0.1776,
+    0.1745,
     0.1735,
-    0.1719
+    0.172
    ],
    "p90": [
-    0.1712,
-    0.2372,
-    0.2082,
-    0.2884,
+    0.1713,
+    0.2373,
+    0.2083,
+    0.2885,
     0.2989,
     0.2937,
     0.3022,
-    0.3337,
-    0.3504,
+    0.3338,
+    0.3505,
     0.3844,
-    0.4033,
-    0.4022,
-    0.4207,
-    0.4465,
-    0.4708,
-    0.506,
-    0.5214,
-    0.5268,
-    0.567,
-    0.5977,
-    0.5986,
-    0.6282,
-    0.6654,
-    0.6772,
-    0.7006,
-    0.7489,
-    0.7721,
-    0.8087,
-    0.8543,
-    0.866,
-    0.8772,
-    0.893,
-    0.8943,
-    0.9388,
-    0.9222,
-    0.9194,
-    0.9236,
-    0.954,
-    0.9446,
-    0.9888,
-    0.9947,
-    1.004,
-    1.0221,
-    1.0381,
-    1.0348,
-    1.0594,
-    1.0546,
-    1.0773,
-    1.0786,
-    1.1101,
-    1.0833,
-    1.1114,
-    1.1494,
-    1.1198,
-    1.1796,
-    1.154,
-    1.2013,
-    1.1756,
-    1.1637,
-    1.2247,
-    1.2259
+    0.4034,
+    0.4023,
+    0.4208,
+    0.4466,
+    0.4709,
+    0.5061,
+    0.5215,
+    0.527,
+    0.5671,
+    0.5978,
+    0.5987,
+    0.6283,
+    0.6655,
+    0.6773,
+    0.7007,
+    0.7491,
+    0.7722,
+    0.8088,
+    0.8545,
+    0.8662,
+    0.8773,
+    0.8932,
+    0.8944,
+    0.9389,
+    0.9224,
+    0.9195,
+    0.9238,
+    0.9542,
+    0.9448,
+    0.9889,
+    0.9948,
+    1.0042,
+    1.0222,
+    1.0383,
+    1.0349,
+    1.0596,
+    1.0548,
+    1.0775,
+    1.0788,
+    1.1103,
+    1.0835,
+    1.1116,
+    1.1496,
+    1.12,
+    1.1798,
+    1.1542,
+    1.2015,
+    1.1758,
+    1.1639,
+    1.2249,
+    1.2261
    ],
    "probFullByMonth": [
     0,
@@ -2966,17 +2966,17 @@
     0.1185,
     0.1265,
     0.133,
-    0.1398,
+    0.14,
     0.1463,
     0.1568,
     0.161,
     0.1643,
     0.1693,
-    0.174,
-    0.1778,
-    0.1858,
-    0.1925,
-    0.1973,
+    0.1742,
+    0.178,
+    0.186,
+    0.1928,
+    0.1975,
     0.2023,
     0.2068,
     0.21,
@@ -2994,8 +2994,8 @@
     0.2573,
     0.2613,
     0.2643,
-    0.266,
-    0.2698
+    0.2663,
+    0.27
    ],
    "probHalfByMonth": [
     0,
@@ -3010,12 +3010,12 @@
     0.062,
     0.0773,
     0.0915,
-    0.108,
+    0.1083,
     0.1218,
     0.1385,
     0.16,
     0.175,
-    0.186,
+    0.1863,
     0.2053,
     0.2183,
     0.2313,
@@ -3031,68 +3031,68 @@
     0.3505,
     0.3583,
     0.3643,
-    0.3728,
-    0.3802,
-    0.3873,
-    0.3953,
-    0.402,
-    0.4083,
-    0.416,
-    0.422,
-    0.4265,
-    0.4313,
-    0.4355,
-    0.4425,
-    0.4483,
-    0.4525,
-    0.4565,
-    0.4635,
-    0.4668,
-    0.4688,
-    0.4738,
-    0.4775,
-    0.4808,
-    0.4838,
-    0.4875,
-    0.4898,
-    0.4945,
-    0.4978,
-    0.5,
-    0.504
+    0.373,
+    0.3805,
+    0.3875,
+    0.3955,
+    0.4023,
+    0.4085,
+    0.4163,
+    0.4223,
+    0.4268,
+    0.4315,
+    0.4358,
+    0.4428,
+    0.4485,
+    0.4528,
+    0.4568,
+    0.4638,
+    0.467,
+    0.469,
+    0.474,
+    0.4778,
+    0.481,
+    0.484,
+    0.4878,
+    0.49,
+    0.4948,
+    0.498,
+    0.5003,
+    0.5043
    ]
   },
   "halfSpeedWithCut": {
    "p10": [
-    0.1712,
-    0.1602,
-    0.1518,
+    0.1713,
+    0.1603,
+    0.1519,
     0.147,
     0.1379,
-    0.1369,
+    0.137,
     0.1315,
-    0.1326,
+    0.1327,
     0.1336,
-    0.1315,
+    0.1316,
     0.1316,
     0.1315,
     0.1298,
-    0.1309,
+    0.131,
     0.1321,
     0.1328,
-    0.1333,
+    0.1334,
+    0.1359,
     0.1358,
-    0.1357,
-    0.1352,
-    0.1379,
-    0.1394,
-    0.1405,
-    0.1429,
+    0.1353,
+    0.138,
+    0.1395,
+    0.1406,
+    0.143,
     0.1426,
     0.1431,
-    0.1465,
-    0.1473,
+    0.1466,
+    0.1474,
     0.1485,
-    0.1483,
+    0.1484,
     0.1455,
     0.1432,
     0.143,
@@ -3100,156 +3100,156 @@
     0.1394,
     0.1377,
     0.1359,
-    0.1343,
-    0.1338,
+    0.1344,
+    0.1339,
     0.1324,
-    0.1322,
-    0.1326,
-    0.1316,
-    0.1307,
-    0.1318,
+    0.1323,
+    0.1327,
+    0.1317,
+    0.1308,
+    0.1319,
     0.1303,
-    0.1289,
-    0.1281,
-    0.1286,
+    0.129,
+    0.1282,
+    0.1287,
     0.1276,
-    0.1257,
-    0.1251,
+    0.1258,
+    0.1252,
     0.1234,
     0.1229,
-    0.122,
+    0.1221,
     0.119,
-    0.1212,
-    0.1191,
-    0.1193,
+    0.1213,
+    0.1192,
+    0.1194,
     0.1203,
-    0.1191
+    0.1192
    ],
    "p50": [
-    0.1712,
-    0.1658,
-    0.1682,
+    0.1713,
+    0.1659,
+    0.1683,
     0.1601,
-    0.1665,
-    0.1719,
-    0.178,
+    0.1666,
+    0.172,
+    0.1781,
     0.1789,
-    0.1829,
+    0.183,
     0.1871,
     0.1893,
-    0.1917,
-    0.1948,
+    0.1918,
+    0.1949,
     0.1999,
     0.2028,
-    0.2091,
+    0.2092,
     0.2139,
-    0.2175,
+    0.2176,
     0.2205,
-    0.2255,
-    0.2292,
+    0.2256,
+    0.2293,
     0.2343,
-    0.2401,
-    0.244,
-    0.2504,
+    0.2402,
+    0.2441,
+    0.2505,
     0.255,
     0.2621,
-    0.2681,
-    0.2733,
-    0.2744,
-    0.2735,
-    0.275,
-    0.2764,
-    0.2757,
-    0.2784,
-    0.2809,
-    0.2806,
-    0.283,
-    0.2809,
-    0.2813,
+    0.2682,
+    0.2734,
+    0.2745,
+    0.2736,
+    0.2751,
+    0.2765,
+    0.2758,
+    0.2785,
+    0.281,
+    0.2807,
+    0.2831,
+    0.281,
+    0.2814,
+    0.2847,
+    0.2831,
     0.2846,
-    0.283,
-    0.2845,
-    0.2852,
-    0.2871,
-    0.2893,
+    0.2853,
+    0.2872,
+    0.2894,
     0.2896,
-    0.2915,
-    0.2903,
-    0.2933,
-    0.2908,
-    0.292,
-    0.2914,
-    0.2932,
+    0.2916,
+    0.2904,
+    0.2934,
     0.2909,
-    0.2926,
-    0.2929,
-    0.2922,
-    0.2951,
-    0.2987,
-    0.2987
+    0.2921,
+    0.2915,
+    0.2933,
+    0.291,
+    0.2927,
+    0.293,
+    0.2923,
+    0.2952,
+    0.2988,
+    0.2988
    ],
    "p90": [
-    0.1712,
+    0.1713,
     0.2041,
     0.1912,
-    0.2254,
-    0.2289,
-    0.2313,
-    0.2361,
-    0.2522,
-    0.2621,
-    0.278,
-    0.2873,
-    0.2954,
-    0.3013,
-    0.3159,
-    0.3311,
-    0.3442,
-    0.3556,
-    0.3644,
-    0.3802,
-    0.3963,
-    0.4048,
-    0.4207,
-    0.4382,
-    0.4542,
-    0.4704,
-    0.4957,
-    0.5086,
-    0.5316,
-    0.5562,
-    0.5557,
-    0.5659,
-    0.577,
-    0.5817,
-    0.5912,
+    0.2255,
+    0.229,
+    0.2314,
+    0.2362,
+    0.2523,
+    0.2622,
+    0.2781,
+    0.2874,
+    0.2955,
+    0.3014,
+    0.316,
+    0.3312,
+    0.3443,
+    0.3557,
+    0.3645,
+    0.3803,
+    0.3964,
+    0.4049,
+    0.4208,
+    0.4383,
+    0.4543,
+    0.4705,
+    0.4958,
+    0.5087,
+    0.5318,
+    0.5563,
+    0.5558,
+    0.566,
+    0.5771,
+    0.5818,
     0.5914,
-    0.5967,
-    0.6002,
-    0.6138,
-    0.6144,
-    0.638,
-    0.6465,
-    0.6435,
-    0.6486,
-    0.6543,
-    0.6677,
-    0.6808,
-    0.6904,
-    0.6949,
-    0.7001,
-    0.7182,
-    0.7128,
-    0.7119,
-    0.734,
-    0.7366,
-    0.7544,
-    0.7537,
-    0.7661,
-    0.7608,
-    0.7694,
-    0.789,
-    0.8016
+    0.5916,
+    0.5968,
+    0.6003,
+    0.6139,
+    0.6145,
+    0.6381,
+    0.6467,
+    0.6436,
+    0.6487,
+    0.6545,
+    0.6678,
+    0.6809,
+    0.6905,
+    0.695,
+    0.7003,
+    0.7183,
+    0.713,
+    0.7121,
+    0.7341,
+    0.7368,
+    0.7545,
+    0.7538,
+    0.7662,
+    0.7609,
+    0.7695,
+    0.7891,
+    0.8017
    ],
    "probFullByMonth": [
     0,
@@ -3274,13 +3274,13 @@
     0.0003,
     0.0008,
     0.0013,
-    0.0023,
-    0.0028,
-    0.0033,
-    0.0055,
-    0.0063,
-    0.0093,
-    0.0107,
+    0.0025,
+    0.003,
+    0.0035,
+    0.0058,
+    0.0065,
+    0.0095,
+    0.011,
     0.0138,
     0.0173,
     0.0183,
@@ -3333,7 +3333,7 @@
     0.0173,
     0.02,
     0.0253,
-    0.0345,
+    0.0348,
     0.0425,
     0.0538,
     0.0683,
@@ -3385,7 +3385,7 @@
   "txnsPerDayPrev30": 830142.1333333333,
   "activeAccounts30": 70302.36666666667,
   "activeAccountsPrev30": 75147.93333333333,
-  "burnCalibration": 0.9372453137399505
+  "burnCalibration": 0.9411850285153415
  },
  "verdicts": [
   {
@@ -3404,10 +3404,10 @@
    "title": "Income against the security bill",
    "question": "How much of what NEAR pays for security comes back to holders?",
    "rule": "Supported if buybacks plus gas burn cover at least 50% of NEAR minted over 30 days; contradicted below 20%.",
-   "value": 0.17123714681285937,
+   "value": 0.17129282604679183,
    "display": "17.1%",
    "status": "contradicted",
-   "reading": "The chain minted 89,515 NEAR a day. Captured Intents revenue bought 14,528 and gas burned 801.",
+   "reading": "The chain minted 89,520 NEAR a day. Captured Intents revenue bought 14,530 and gas burned 804.",
    "against": "Coverage is counted in NEAR while revenue is earned in dollars, so the same revenue covers less when the price rises. Bought NEAR is held, not burned."
   },
   {
@@ -3415,10 +3415,10 @@
    "title": "Does the money arrive",
    "question": "Do the revenue wallets on chain hold what the revenue series says they received?",
    "rule": "Supported if the three revenue wallets gained at least 90% of the NEAR the series implies over the window; contradicted below 75%.",
-   "value": 1.0764030593421081,
-   "display": "108%",
+   "value": 1.0979904282159687,
+   "display": "110%",
    "status": "supported",
-   "reading": "From 2026-10-23 to 2026-11-22 the three wallets gained 457,098 NEAR; the series implies 424,653.",
+   "reading": "From 2026-10-24 to 2026-11-23 the three wallets gained 457,652 NEAR; the series implies 416,809.",
    "against": "Nothing in code locks these wallets. A multisig can move the balance, so this measures a policy that has been kept so far, not a rule."
   },
   {
@@ -3426,10 +3426,10 @@
    "title": "Security after the cut",
    "question": "Does a smaller security budget still price an attack well above what the chain settles?",
    "rule": "Supported if one third of all stake costs at least 2x the value held in NEAR Intents at spot; contradicted below 1x.",
-   "value": 3.866139455699956,
+   "value": 3.8699434094236693,
    "display": "3.9x",
    "status": "supported",
-   "reading": "One third of the 595,699,888 NEAR at stake is worth $636.5M at spot, against $164.6M held in NEAR Intents.",
+   "reading": "One third of the 596,286,007 NEAR at stake is worth $637.1M at spot, against $164.6M held in NEAR Intents.",
    "against": "Spot value is not an attack cost: buying that much would move the price up, and a price fall shrinks the margin without any change in stake."
   },
   {
@@ -3437,7 +3437,7 @@
    "title": "Validator set after the cut",
    "question": "After issuance falls to 1.6%, how much stake sits with validators whose fee income still pays for the machine?",
    "rule": "Supported if at least 90% of stake sits with validators whose commission income covers $500 a month at the post-cut rate; contradicted below 67%.",
-   "value": 0.8891395700216336,
+   "value": 0.8892141662751392,
    "display": "88.9%",
    "status": "mixed",
    "reading": "83 of 345 validators clear the bar after the cut (96 today); they hold 88.9% of stake.",
@@ -3459,10 +3459,10 @@
    "title": "The holder who stakes",
    "question": "Does a staker's share of all NEAR still grow after the cut?",
    "rule": "Supported if the real staking yield after the cut is above 0%; contradicted below -0.5%.",
-   "value": 0.007718724198987781,
+   "value": 0.007704833492450547,
    "display": "0.77%",
    "status": "supported",
-   "reading": "Staking pays 3.68% a year today and 2.36% after the cut; net of supply growth that is 1.18% and 0.77%.",
+   "reading": "Staking pays 3.68% a year today and 2.35% after the cut; net of supply growth that is 1.18% and 0.77%.",
    "against": "This holds the staked share fixed. If lower rewards make holders unstake, the yield per staked NEAR rises and the stake securing the chain falls."
   }
  ],
@@ -3475,45 +3475,45 @@
    "file": "llama_intents_volume.json",
    "source": "DefiLlama",
    "url": "https://api.llama.fi/summary/dexs/near-intents",
-   "fetchedAt": "2026-11-22T13:23:34.109Z",
-   "bytes": 15441,
-   "sha256": "1919da455c4280b0e1b3f72ea8985be8e625e9b44f35d7eeca25bbf4ac8d5072",
+   "fetchedAt": "2026-11-23T16:02:44.256Z",
+   "bytes": 15463,
+   "sha256": "292091a85decad07d831160455f4558c227b5c8a3a5677a384a430c7e4d32f7c",
    "status": "fresh"
   },
   {
    "file": "llama_intents_fees.json",
    "source": "DefiLlama",
    "url": "https://api.llama.fi/summary/fees/near-intents?dataType=dailyFees",
-   "fetchedAt": "2026-11-22T13:23:34.973Z",
-   "bytes": 11645,
-   "sha256": "44a9170e25289de42848e9e7f9498f80bff76146a1b9dcdeb48c0320ee093f8a",
+   "fetchedAt": "2026-11-23T16:02:45.316Z",
+   "bytes": 11666,
+   "sha256": "e466ef5f37d4fdcbde155a596d51e73c32f1b3d77b4bc1ef7ac21612ceb50ea8",
    "status": "fresh"
   },
   {
    "file": "llama_intents_revenue.json",
    "source": "DefiLlama",
    "url": "https://api.llama.fi/summary/fees/near-intents?dataType=dailyRevenue",
-   "fetchedAt": "2026-11-22T13:23:35.765Z",
-   "bytes": 10431,
-   "sha256": "2791d338ee460c8d00f3f19085540ce955eb08b2c8cb558f93f147fa6db61b85",
+   "fetchedAt": "2026-11-23T16:02:46.248Z",
+   "bytes": 10451,
+   "sha256": "9e2b1cd599693db8187fbd61983b7d73baac548078317d7d67bdefcb231eab7f",
    "status": "fresh"
   },
   {
    "file": "llama_intents_holders_revenue.json",
    "source": "DefiLlama",
    "url": "https://api.llama.fi/summary/fees/near-intents?dataType=dailyHoldersRevenue",
-   "fetchedAt": "2026-11-22T13:23:36.522Z",
-   "bytes": 10328,
-   "sha256": "abf052420825a4407c5f1fe0013c19821556f345cc2ca604a1eb414ee16180f9",
+   "fetchedAt": "2026-11-23T16:02:46.312Z",
+   "bytes": 10348,
+   "sha256": "1f67f76f10058c60014449417ace5b3fc11e05b963212b7f5ffad776df4118e0",
    "status": "fresh"
   },
   {
    "file": "llama_intents_tvl.json",
    "source": "DefiLlama",
    "url": "https://api.llama.fi/protocol/near-intents",
-   "fetchedAt": "2026-11-22T13:23:38.292Z",
-   "bytes": 8686,
-   "sha256": "684fd7035422bece27e0768cf2ad88e9d993e25b1d934eed07a1643ae6aa0558",
+   "fetchedAt": "2026-11-23T16:02:46.529Z",
+   "bytes": 8709,
+   "sha256": "b63a28a1c286bb287e5a186b7b1f6f0e9370ccd4f6999c0d3d467419bf4c5b13",
    "status": "fresh"
   },
   {
@@ -3530,16 +3530,16 @@
    "file": "rpc_head.json",
    "source": "NEAR RPC",
    "url": "rpc: block {finality: final}",
-   "fetchedAt": "2026-11-22T13:23:50.956Z",
+   "fetchedAt": "2026-11-23T16:02:59.712Z",
    "bytes": 100,
-   "sha256": "34e839cd9a35198b954ab869f543e545a8e85931b7c45de5c6e854c1ab495e17",
+   "sha256": "8c94ba10386c1eb4e3e612a21125ec2c982a32d7da7aad416ddecf19695efc70",
    "status": "fresh"
   },
   {
    "file": "rpc_protocol_config.json",
    "source": "NEAR RPC",
    "url": "rpc: EXPERIMENTAL_protocol_config",
-   "fetchedAt": "2026-11-22T13:23:50.958Z",
+   "fetchedAt": "2026-11-23T16:02:59.713Z",
    "bytes": 314,
    "sha256": "5b8653839155023ba1139657dd2402967b525ac81635f63309a90ea5f6587a9e",
    "status": "fresh"
@@ -3548,27 +3548,27 @@
    "file": "rpc_validators.json",
    "source": "NEAR RPC",
    "url": "rpc: validators [null]",
-   "fetchedAt": "2026-11-22T13:23:51.253Z",
-   "bytes": 63174,
-   "sha256": "38be09097b5d2db34812fef7813c76091d889c8ae3717290460be91145c7b0a9",
+   "fetchedAt": "2026-11-23T16:02:59.997Z",
+   "bytes": 62984,
+   "sha256": "ebe2c9077625791b385032315f7828366c13f8d92433260d53ccb5d1b545cb73",
    "status": "fresh"
   },
   {
    "file": "rpc_commissions.json",
    "source": "NEAR RPC",
    "url": "rpc: call_function get_reward_fee_fraction on every validator pool",
-   "fetchedAt": "2026-11-22T13:23:51.664Z",
+   "fetchedAt": "2026-11-23T16:03:00.323Z",
    "bytes": 9577,
-   "sha256": "e48ccd14d0579a4a5810c5d378cee48ad326c2908008ce4f8e27a8a19cdcbe70",
+   "sha256": "b40626a31bdb2fed88b2b0abc651b15d809d87f0477e124bcfe109b9ea346233",
    "status": "fresh"
   },
   {
    "file": "rpc_epochs.json",
    "source": "NEAR archival RPC",
    "url": "rpc: validators [block] + block headers at each epoch boundary",
-   "fetchedAt": "2026-11-22T13:26:29.581Z",
-   "bytes": 63611,
-   "sha256": "1aef97c3e83043a68f6afada5f829b97c382332eb1d3096c552f5f67a468c98a",
+   "fetchedAt": "2026-11-23T16:05:55.417Z",
+   "bytes": 63609,
+   "sha256": "67e4e724d83d967f84d2a467a9821395c91f656550aa53cf5cf58582eb77d7d0",
    "status": "fresh",
    "note": "Each record is read at an epoch boundary: supply just before and just after the first block of the epoch, and the rewards paid in that block."
   },
@@ -3576,9 +3576,9 @@
    "file": "rpc_wallets.json",
    "source": "NEAR RPC (live + archival)",
    "url": "rpc: query view_account at fixed block heights",
-   "fetchedAt": "2026-11-22T13:26:33.518Z",
+   "fetchedAt": "2026-11-23T16:06:00.757Z",
    "bytes": 1182,
-   "sha256": "a358f636f36cc22f04ab8684f2edc706095ea32727834d72fc35ddb9918abc80",
+   "sha256": "bc1364ca2b5f4f2a3751fb0987ea65b0acb3725b51d25dc8932979d8b3369b4e",
    "status": "fresh"
   }
  ],

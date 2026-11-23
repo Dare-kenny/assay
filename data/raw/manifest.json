@@ -3,45 +3,45 @@
   "file": "llama_intents_volume.json",
   "source": "DefiLlama",
   "url": "https://api.llama.fi/summary/dexs/near-intents",
-  "fetchedAt": "2026-11-22T13:23:34.109Z",
-  "bytes": 15441,
-  "sha256": "1919da455c4280b0e1b3f72ea8985be8e625e9b44f35d7eeca25bbf4ac8d5072",
+  "fetchedAt": "2026-11-23T16:02:44.256Z",
+  "bytes": 15463,
+  "sha256": "292091a85decad07d831160455f4558c227b5c8a3a5677a384a430c7e4d32f7c",
   "status": "fresh"
  },
  {
   "file": "llama_intents_fees.json",
   "source": "DefiLlama",
   "url": "https://api.llama.fi/summary/fees/near-intents?dataType=dailyFees",
-  "fetchedAt": "2026-11-22T13:23:34.973Z",
-  "bytes": 11645,
-  "sha256": "44a9170e25289de42848e9e7f9498f80bff76146a1b9dcdeb48c0320ee093f8a",
+  "fetchedAt": "2026-11-23T16:02:45.316Z",
+  "bytes": 11666,
+  "sha256": "e466ef5f37d4fdcbde155a596d51e73c32f1b3d77b4bc1ef7ac21612ceb50ea8",
   "status": "fresh"
  },
  {
   "file": "llama_intents_revenue.json",
   "source": "DefiLlama",
   "url": "https://api.llama.fi/summary/fees/near-intents?dataType=dailyRevenue",
-  "fetchedAt": "2026-11-22T13:23:35.765Z",
-  "bytes": 10431,
-  "sha256": "2791d338ee460c8d00f3f19085540ce955eb08b2c8cb558f93f147fa6db61b85",
+  "fetchedAt": "2026-11-23T16:02:46.248Z",
+  "bytes": 10451,
+  "sha256": "9e2b1cd599693db8187fbd61983b7d73baac548078317d7d67bdefcb231eab7f",
   "status": "fresh"
  },
  {
   "file": "llama_intents_holders_revenue.json",
   "source": "DefiLlama",
   "url": "https://api.llama.fi/summary/fees/near-intents?dataType=dailyHoldersRevenue",
-  "fetchedAt": "2026-11-22T13:23:36.522Z",
-  "bytes": 10328,
-  "sha256": "abf052420825a4407c5f1fe0013c19821556f345cc2ca604a1eb414ee16180f9",
+  "fetchedAt": "2026-11-23T16:02:46.312Z",
+  "bytes": 10348,
+  "sha256": "1f67f76f10058c60014449417ace5b3fc11e05b963212b7f5ffad776df4118e0",
   "status": "fresh"
  },
  {
   "file": "llama_intents_tvl.json",
   "source": "DefiLlama",
   "url": "https://api.llama.fi/protocol/near-intents",
-  "fetchedAt": "2026-11-22T13:23:38.292Z",
-  "bytes": 8686,
-  "sha256": "684fd7035422bece27e0768cf2ad88e9d993e25b1d934eed07a1643ae6aa0558",
+  "fetchedAt": "2026-11-23T16:02:46.529Z",
+  "bytes": 8709,
+  "sha256": "b63a28a1c286bb287e5a186b7b1f6f0e9370ccd4f6999c0d3d467419bf4c5b13",
   "status": "fresh"
  },
  {
@@ -58,16 +58,16 @@
   "file": "rpc_head.json",
   "source": "NEAR RPC",
   "url": "rpc: block {finality: final}",
-  "fetchedAt": "2026-11-22T13:23:50.956Z",
+  "fetchedAt": "2026-11-23T16:02:59.712Z",
   "bytes": 100,
-  "sha256": "34e839cd9a35198b954ab869f543e545a8e85931b7c45de5c6e854c1ab495e17",
+  "sha256": "8c94ba10386c1eb4e3e612a21125ec2c982a32d7da7aad416ddecf19695efc70",
   "status": "fresh"
  },
  {
   "file": "rpc_protocol_config.json",
   "source": "NEAR RPC",
   "url": "rpc: EXPERIMENTAL_protocol_config",
-  "fetchedAt": "2026-11-22T13:23:50.958Z",
+  "fetchedAt": "2026-11-23T16:02:59.713Z",
   "bytes": 314,
   "sha256": "5b8653839155023ba1139657dd2402967b525ac81635f63309a90ea5f6587a9e",
   "status": "fresh"
@@ -76,27 +76,27 @@
   "file": "rpc_validators.json",
   "source": "NEAR RPC",
   "url": "rpc: validators [null]",
-  "fetchedAt": "2026-11-22T13:23:51.253Z",
-  "bytes": 63174,
-  "sha256": "38be09097b5d2db34812fef7813c76091d889c8ae3717290460be91145c7b0a9",
+  "fetchedAt": "2026-11-23T16:02:59.997Z",
+  "bytes": 62984,
+  "sha256": "ebe2c9077625791b385032315f7828366c13f8d92433260d53ccb5d1b545cb73",
   "status": "fresh"
  },
  {
   "file": "rpc_commissions.json",
   "source": "NEAR RPC",
   "url": "rpc: call_function get_reward_fee_fraction on every validator pool",
-  "fetchedAt": "2026-11-22T13:23:51.664Z",
+  "fetchedAt": "2026-11-23T16:03:00.323Z",
   "bytes": 9577,
-  "sha256": "e48ccd14d0579a4a5810c5d378cee48ad326c2908008ce4f8e27a8a19cdcbe70",
+  "sha256": "b40626a31bdb2fed88b2b0abc651b15d809d87f0477e124bcfe109b9ea346233",
   "status": "fresh"
  },
  {
   "file": "rpc_epochs.json",
   "source": "NEAR archival RPC",
   "url": "rpc: validators [block] + block headers at each epoch boundary",
-  "fetchedAt": "2026-11-22T13:26:29.581Z",
-  "bytes": 63611,
-  "sha256": "1aef97c3e83043a68f6afada5f829b97c382332eb1d3096c552f5f67a468c98a",
+  "fetchedAt": "2026-11-23T16:05:55.417Z",
+  "bytes": 63609,
+  "sha256": "67e4e724d83d967f84d2a467a9821395c91f656550aa53cf5cf58582eb77d7d0",
   "status": "fresh",
   "note": "Each record is read at an epoch boundary: supply just before and just after the first block of the epoch, and the rewards paid in that block."
  },
@@ -104,9 +104,9 @@
   "file": "rpc_wallets.json",
   "source": "NEAR RPC (live + archival)",
   "url": "rpc: query view_account at fixed block heights",
-  "fetchedAt": "2026-11-22T13:26:33.518Z",
+  "fetchedAt": "2026-11-23T16:06:00.757Z",
   "bytes": 1182,
-  "sha256": "a358f636f36cc22f04ab8684f2edc706095ea32727834d72fc35ddb9918abc80",
+  "sha256": "bc1364ca2b5f4f2a3751fb0987ea65b0acb3725b51d25dc8932979d8b3369b4e",
   "status": "fresh"
  }
 ]
